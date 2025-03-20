@@ -15,9 +15,10 @@ CAVEAT EMPTOR:
 
 
 
-My Recommendations:
+Recommended
 
 	Flashlight Customizer﻿
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/221
 		Download "Flashlight_Tweaker" main file
 		Copy the three "Flashlight_Customizer*" files to mods.
 		Open console with '~' key ingame
@@ -25,6 +26,33 @@ My Recommendations:
 		Press "Right-Alt + L" in-game to bring up customizer menu
 		You can download some kind of preset if you wish, but I just tinker with the settings until I find what felt right for me.
 
+	MinUI Suite - MinUI
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/756
+		Download "MinUI" main file
+		Copy the three "zzzzzzzzz_MJRamon_MinUI_P*" files to "~mods"
+
+	MinUI Suite - MinHUD
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/757
+		Download "MinHUD" main file
+		Copy the three "zzzzzzzzz_MJRamon_MinHUD_P*" files to "~mods"
+
+	MinUI Suite - Clean Button Prompts
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/758
+		Download "Clean Button Prompts" main file of your choice (one or the other)
+		Copy the three "zzzzzzzzz_MJRamon_CleanPromptsUI_*_P*" files to "~mods"
+
+	Optimization/Performance mods:
+		I was previously using a performance mod
+		On the fence about it with new patch 1.3
+		Will probably wait to see for now
+		
+		One thing I --DO-- recommended is getting the dummy "CChromaEditorLibrary64.dll" file (only) from "STK2 - SPF"
+		Overwrite the original in "<gamedir>\Stalker2\Plugins\ChromaSDKPlugin\ThirdParty\Win64"
+		Make a backup of the original if you wish
+		
+		Whether or not you have/use Razer Chroma products, the plugin is known to cause issues.
+
+Somewhat Recommended
 	Stalker Faction ID﻿﻿
 		Hopefully updated soon, it does have some issues getting the ID right
 		Download the "Pamplemousse_StalkerId" main file.
@@ -32,34 +60,9 @@ My Recommendations:
 		Open console with '~' key ingame
 		Eter command:  mod add /Game/Mods/StalkerId/BP_StalkerIdentification.BP_StalkerIdentification_C
 
-	MinUI - MinUI Suite
-		Download "MinUI" main file
-		Copy the three "zzzzzzzzz_MJRamon_MinUI_P*" files to "~mods"
 
-	MinHUD - MinUI Suite
-		Download "MinHUD" main file
-		Copy the three "zzzzzzzzz_MJRamon_MinUI_P*" files to "~mods"
-
-	MinUI - MinUI Suite
-		Download "MinUI" main file
-		Copy the three "zzzzzzzzz_MJRamon_MinHUD_P*" files to "~mods"
-
-	Clean Button Prompts - MinUI Suite
-		Download "Clean Button Prompts" main file of your choice (one or the other)
-		Copy the three "zzzzzzzzz_MJRamon_CleanPromptsUI_*_P*" files to "~mods"
-
-	Optimization/Performance mods:
-		I was previously using a performance mod
-		On the fence about with new patch 1.3
-		Will probably wait to see for now.
-		
-		One thing I --DO-- recommended is getting the dummy "CChromaEditorLibrary64.dll" file (only) from "STK2 - SPF"
-		Whether or not you have/use Razer Chroma products, the plugin is ~known~ to cause issues.
-
-
-
-My Not-Recommended but interesting none-the-less list:
-	Mods by rbwadle:
+Not-Recommended but interesting none-the-less:
+	Been looking at mods by rbwadle:
 		Download main files and install as normal.
 		Also run console command to activate.
 		
@@ -67,7 +70,7 @@ My Not-Recommended but interesting none-the-less list:
 			Dodge           mod add /Game/Mods/Dodge/ModActor.ModActor_C
 			Focus Aim       mod add /Game/Mods/FocusAim/ModActor.ModActor_C
 			Grab Objects    mod add /Game/Mods/GrabObjects/ModActor.ModActor_C
-			
+
 		Definately VERY cheaty, not recommended, could be useful for testing:
 			Bolt Jump       mod add /Game/Mods/BoltJump/ModActor.ModActor_C
 			Locksmith       mod add /Game/Mods/Locksmith/ModActor.ModActor_C
