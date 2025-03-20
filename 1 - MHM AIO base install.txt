@@ -36,31 +36,38 @@ MHM AIO:
 
 
 Required Mods:
-	Faction Patches:
+	Faction Patches
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/721?tab=files
 		Download the "FactionPatch" main file
 		Copy the three "zz_FactionsPatch_Textures*" files to "~mods"
 
 	LNA:
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1212
 		Download ~only~ the "1.LNA - Linxz's NPC Attachments" main file (Not needed desolation or vanilla file)
 		Copy "LNA01_99_P.pak" to "~mods"
 
 	Mutant Loot:
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/389
 		Download the "MutantLoot" main file
 		Copy the three "ZZ_Mutant_Loot_Textures_P*" files to "~mods"
 
 	OXA:
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/939?tab=description
 		Download the "OXA - Oxide's eXpanded Armory" main file
 		Copy ~all~ files to "~mods" --EXCEPT-- the three localization files and OXA03_P.pak
 
 	Pill Head:
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/778
 		Dowload the "Pillhead - Substances of Stalker" main file
 		Copy the three "xxxPillhead_Textures*" files to "~mods"
 
 	Project Itemization:
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/445
 		Download the "Project Itemization" main file
 		Copy the three "ZZZ_ProjectItemization-Textures_P*" files to "~mods"
 
 	Simple Mod Loader:
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/304?tab=files
 		Download the "SimpleModLoader" main file
 		Copy all four files from "Stalker2\Content\Paks" to "~mods"
 
