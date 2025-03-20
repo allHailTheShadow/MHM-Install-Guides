@@ -27,7 +27,7 @@ ALIFE
 	A-Life uh... Found a Way﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1122
 		REQIRES "Stop NPCs X-Ray Vision and Other Collision Tweaks"
-		Download "ALife_Found_A_Way_1.5.3" main file
+		Download "ALife_Found_A_Way" main file
 		Copy "zzzzzzzz_ALife_Found_A_Way_P.pak" to "~mods"
 		Copy --one-- of the files from the "MHM AIO\Patches and Addons\Patch: A-Life Found a Way":
 		If using Master Mode addon: Copy "zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak" to "~mods"
@@ -36,7 +36,7 @@ ALIFE
 ﻿AI / NPC
 	NPC Combat Overhaul
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/635
-		Download the "zzzzzz_NPCCombatOverhaul 1.2" main file.
+		Download the "zzzzzz_NPCCombatOverhaul" main file.
 		Copy the "zzzzzz_NPCCombatOverhaul_P.pak" to "~mods"
 
 	Instant Long Range Aggression Fix
