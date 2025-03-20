@@ -1,0 +1,73 @@
+===== MHM AIO Addons Setup =====
+
+Addons info:
+	These are --optional-- addons to customise your base MHM AIO install.
+	These are to be added on top of existing MHM setup.
+	Choose any/all/none as you see fit.
+	These files are in the "Patches and Addons" folder in the MHM AIO.
+
+
+
+CAVEAT EMPTOR:
+	I have no official association or contact with the mod author.
+	I really like this mod, and want it to work for everyone.
+	This is simply my attempt to give people a detailed install guide.
+	Its contents are quite possible WRONG.
+	Feel free to correct me.
+
+
+
+Hardcore AIO for Gamepad Users:
+	Desc:		Lowers mutant speed (easier for Gampad)
+	For:		Hardcore only
+	Install:	Copy "zzzzzzzzzzzz_MHM_2.0_AIO_Hardcore_Gamepad_Friendly_Patch_P.pak" to "~mods"
+
+
+
+Master Mode for Hardcore AIO:
+	Desc:		Difficulty is even more hardcore than hardcore.
+				You also can now only save at campfires/beds.
+				Needs new game.
+				Not compatible with Quick Start Skip Intro mods.
+	For:		Hardcore only
+	Install:	Copy "zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak" to "~mods"
+
+
+
+MHM Campfire Saves:
+	Desc:		Can only save at campfires/beds.
+				Needs new game.
+				Not compatible with Quick Start Skip Intro mods.
+	For:		Standard only
+	Install:	Copy "zzzzzzzzzzzz_MHM_CampfireSaves.pak" to "~mods"
+
+
+
+MHM Color Grading Fix:
+	Desc:		Tones down some of the color saturation in the game.
+				Need to install Reshade before it will work (this is not a standard stalker 2 mod)
+	For:		Standard or Hardcore
+	Install:	Copy "MHM.ini" to "~your game dir~\Stalker2\Binaries\Win64" folder
+				Download ReShade from "https://reshade.me/#download" and run the installer.
+				Point it to your "Stalker2.exe"
+				Select the DirectX 10/11/12 option.
+				Click uncheck all at the top right (Standard effects will stay checked, that's ok)
+				At the bottom click "browse" and point it to the "MHM.ini" file you installed earlier.
+				Click "next".
+				Don't check anything on next screen, and click "next".
+				Click "finish"
+				Once ingame, press the "home" key on your keyboard.
+				Click "Add-ons" tab at top.
+				Uncheck "Generic Depth" and "Effect Runtime Sync"
+				Click "Settings" tab at top.
+				Under "General" section, check "Load only enabled effects"
+				Pres "home" on your keyboard again to close the window.
+				You will need to close and restart your game for everything to work properly.
+
+
+
+Relaxed Mode for Veteran AIO:
+	Desc:		Less hardcore than Standard.
+				Tones things down a bit for easier game.
+	For:		Standard only
+	Install:	Copy "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak" to "~mods"

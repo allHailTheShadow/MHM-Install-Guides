@@ -1,0 +1,123 @@
+===== MHM AIO Recommended Mods =====
+
+Recommended mods info:
+	These are mods that are recommended by the MHM author to supplement the setup.
+	Read the Mod Description page before deciding to use any.
+	Use any/all/none as you see fit.
+
+
+
+CAVEAT EMPTOR:
+	I have no official association or contact with the mod author.
+	I really like this mod, and want it to work for everyone.
+	This is simply my attempt to give people a detailed install guide.
+	Its contents are quite possible WRONG.
+	Feel free to correct me.
+
+
+
+ALIFE
+	Use "Shay's Living Zone" --OR-- "A-Life uh... Found a Way", but not both
+
+	Shay's Living Zone:
+		Download "V3 - SLZ - Alternative Main Mods Collection" main file (only)
+		Copy "zzzz_am3_SLZxMHM_v1.2.1_P.pak" to "~mods"
+
+	A-Life uh... Found a Way﻿
+		REQIRES "Stop NPCs X-Ray Vision and Other Collision Tweaks"
+		Download "ALife_Found_A_Way_1.5.3" main file
+		Copy "zzzzzzzz_ALife_Found_A_Way_P.pak" to "~mods"
+		Copy --one-- of the files from the MHM AIO\Patches and Addons\Patch: A-Life Found a Way":
+		If using Master Mode addon:	Copy "zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak" to "~mods"
+		Otherwise:					Copy "zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak" to "~mods"
+
+
+
+﻿AI / NPC
+	NPC Combat Overhaul
+		Download the "zzzzzz_NPCCombatOverhaul 1.2" main file.
+		Copy the "zzzzzz_NPCCombatOverhaul_P.pak" to "~mods"
+
+	Instant Long Range Aggression Fix
+		Download all four of the main files:
+			zzzzzzz_RadioInterference
+			zzzzzz_NoSuperHearing
+			zzzzzz_NoSuperVisionEither
+			zzzzzz_ThreatNeededBalance
+		Copy the pak file from each of the downloads to "~mods"
+
+	Stop NPC's X Ray Vision and other tweaks﻿
+		Download "Recommended_Engine_ini_Additions"
+		
+		If using "A-Life uh... Found a Way﻿"		: DON'T Copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods" (it is included in the A-Life mod)
+		If not using "A-Life uh... Found a Way﻿"	: DO copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods"
+		
+		If Gamepass	: Copy "engine.ini" to "%localappdata%\Stalker2\Saved\Config\WinGDK"
+		Steam		: Copy "engine.ini" to "%localappdata%\Stalker2\Saved\Config\Windows"
+
+		Optional	: --APPEND-- the contents of the "Optional Performance\engine.ini" to your "engine.ini" located above.
+
+
+	S.T.F.U: Shut those factions up!﻿
+		Download "S.T.F.U." main file
+		Copy "S_T_F_U.pak" to "~mods"
+
+
+
+USER INTERFACE
+	Large Loot Inventory﻿
+		Download "LargeLootBox" main file.
+		Copy the three "LargeLootBox_P*" files to "~mods"
+
+	Lore Friendly Ammo Boxes﻿
+		Download "Ammo Plus" main file.
+		Copy the three "AmmoBoxesPlus_P*" files to "~mods"
+
+
+
+﻿OTHER/IMMERSION
+	Mutant Physics and Audio﻿
+		Download "MutantPhysicsFix" main file.
+		Copy "zzzzzz_MutantPhysicsFix.pak" to "~mods"
+
+	Immersive Music Ambience﻿
+		Download "Immersive Music Ambience" main file.
+		Copy "Immersive Music Ambience.pak" to "~mods"
+
+	Dynamic Weather Overhaul﻿
+		Recommended to use "Feliche's Longer Days" with this mod, and extend day cycle by at least 50%
+		Download "Dynamic Weather Overhaul" main file.
+		Copy the four files to "~mods"
+		Copy the three files from "Optional - Emissions" to "~mods" (Optional but recommended)
+		Copy the three files from "Recommended - Base Weathers" to "~mods" (Optional but recommended)
+
+	Feliche's Real Longer Days﻿
+		Download "Real Longer Days" main file
+		READ the mod page. You will need to pick a ratio, and a time stretch.
+		Once you have done this copy the three "Feliche_Real_LongerDays_P*" files from your folder choices to "~mods"
+
+
+
+﻿OTHER 
+	I don't know if these are recommended by the MHM author, per se, but there are compatibility patches available for these mods
+
+	Painter of the Zone - Blood Wallmarks
+		Download "PainteroftheZone_BetterDecal" main file.
+		This one is packaged a bit differently.
+		From "Manual Install\Pick from only one\I want the defaults" folder, copy the three "zz_PoZ_Blood_P*" files to "~mods"
+		DON'T copy the "zz_PoZ_BloodConfig_P.pak" file.
+		Copy the file from the MHM AIO\Patches and Addons\Patch: Painter of the Zone - Blood Wallmarks" to "~mods"
+
+	Painter of the Zone - Bloody Wounds
+		It seems to have no compatibility issues - no patch needed?
+		Pairs well with "PotZ - Blood Wallmarks"
+		Has issues with official Stalker patch 1.3
+		Download "PainteroftheZone_Wounds" main file.
+		Copy the three "zz_PoZWounds_P*" files to "~mods"
+		Ignore the "Other Sizes" folder.
+
+	Svarog Detector
+		Download "Main files" main file.
+		Copy the three "Svarog_Detector_Textures_P*" to "~mods"
+		DON'T copy the "Svarog_Detector_P.pak".
+		Copy the file from the MHM AIO\Patches and Addons\Patch: Svarog Detector" to "~mods"
