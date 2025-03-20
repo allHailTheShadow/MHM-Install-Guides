@@ -17,37 +17,32 @@ CAVEAT EMPTOR:
 
 
 
-Hardcore AIO for Gamepad Users:
-	Desc:		Lowers mutant speed (easier for Gampad)
-	For:		Hardcore only
-	Install:	Copy "zzzzzzzzzzzz_MHM_2.0_AIO_Hardcore_Gamepad_Friendly_Patch_P.pak" to "~mods"
+Addons:
+	Hardcore AIO for Gamepad Users:
+		Desc:		Lowers mutant speed (easier for Gampad)
+		For:		Hardcore only
+		Install:	Copy "zzzzzzzzzzzz_MHM_2.0_AIO_Hardcore_Gamepad_Friendly_Patch_P.pak" to "~mods"
 
-
-
-Master Mode for Hardcore AIO:
-	Desc:		Difficulty is even more hardcore than hardcore.
+	Master Mode for Hardcore AIO:
+		Desc:		Difficulty is even more hardcore than hardcore.
 				You also can now only save at campfires/beds.
 				Needs new game.
 				Not compatible with Quick Start Skip Intro mods.
-	For:		Hardcore only
-	Install:	Copy "zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak" to "~mods"
+		For:		Hardcore only
+		Install:	Copy "zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak" to "~mods"
 
-
-
-MHM Campfire Saves:
-	Desc:		Can only save at campfires/beds.
+	MHM Campfire Saves:
+		Desc:		Can only save at campfires/beds.
 				Needs new game.
 				Not compatible with Quick Start Skip Intro mods.
-	For:		Standard only
-	Install:	Copy "zzzzzzzzzzzz_MHM_CampfireSaves.pak" to "~mods"
+		For:		Standard only
+		Install:	Copy "zzzzzzzzzzzz_MHM_CampfireSaves.pak" to "~mods"
 
-
-
-MHM Color Grading Fix:
-	Desc:		Tones down some of the color saturation in the game.
+	MHM Color Grading Fix:
+		Desc:		Tones down some of the color saturation in the game.
 				Need to install Reshade before it will work (this is not a standard stalker 2 mod)
-	For:		Standard or Hardcore
-	Install:	Copy "MHM.ini" to "~your game dir~\Stalker2\Binaries\Win64" folder
+		For:		Standard or Hardcore
+		Install:	Copy "MHM.ini" to "~your game dir~\Stalker2\Binaries\Win64" folder
 				Download ReShade from "https://reshade.me/#download" and run the installer.
 				Point it to your "Stalker2.exe"
 				Select the DirectX 10/11/12 option.
@@ -64,10 +59,8 @@ MHM Color Grading Fix:
 				Pres "home" on your keyboard again to close the window.
 				You will need to close and restart your game for everything to work properly.
 
-
-
-Relaxed Mode for Veteran AIO:
-	Desc:		Less hardcore than Standard.
+	Relaxed Mode for Veteran AIO:
+		Desc:		Less hardcore than Standard.
 				Tones things down a bit for easier game.
-	For:		Standard only
-	Install:	Copy "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak" to "~mods"
+		For:		Standard only
+		Install:	Copy "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak" to "~mods"
