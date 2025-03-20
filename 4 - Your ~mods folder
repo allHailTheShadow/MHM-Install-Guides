@@ -1,0 +1,84 @@
+=============================================================================================================================================================================================================================================================================================================
+Filename                                                         Source                               Required/Recommended/Optional for...                     Notes
+=============================================================================================================================================================================================================================================================================================================
+AmmoBoxesPlus_P.pak                                              Lore Friendly Ammo Boxes             Required if using "Lore Friendly Ammo Boxes"
+AmmoBoxesPlus_P.ucas                                             Lore Friendly Ammo Boxes             Required if using "Lore Friendly Ammo Boxes"
+AmmoBoxesPlus_P.utoc                                             Lore Friendly Ammo Boxes             Required if using "Lore Friendly Ammo Boxes"
+DWO_BaseWeathers_P.pak                                           Dynamic Weather Overhaul             Recommended if using "Dynamic Weather Overhaul"          Recommended to also use "Feliche's Longer Days"
+DWO_BaseWeathers_P.ucas                                          Dynamic Weather Overhaul             Recommended if using "Dynamic Weather Overhaul"          Recommended to also use "Feliche's Longer Days"
+DWO_BaseWeathers_P.utoc                                          Dynamic Weather Overhaul             Recommended if using "Dynamic Weather Overhaul"          Recommended to also use "Feliche's Longer Days"
+DWO_Emissions_P.pak                                              Dynamic Weather Overhaul             Optional if using "Dynamic Weather Overhaul"             Recommended to also use "Feliche's Longer Days"
+DWO_Emissions_P.ucas                                             Dynamic Weather Overhaul             Optional if using "Dynamic Weather Overhaul"             Recommended to also use "Feliche's Longer Days"
+DWO_Emissions_P.utoc                                             Dynamic Weather Overhaul             Optional if using "Dynamic Weather Overhaul"             Recommended to also use "Feliche's Longer Days"
+DWO_Weathers_P.pak                                               Dynamic Weather Overhaul             Required if using "Dynamic Weather Overhaul"             Recommended to also use "Feliche's Longer Days"
+DWO_Weathers_P.ucas                                              Dynamic Weather Overhaul             Required if using "Dynamic Weather Overhaul"             Recommended to also use "Feliche's Longer Days"
+DWO_Weathers_P.utoc                                              Dynamic Weather Overhaul             Required if using "Dynamic Weather Overhaul"             Recommended to also use "Feliche's Longer Days"
+Feliche_Real_LongerDays_P.pak                                    Feliche's Real Longer Days           Required if using "Feliche's Longer Days"                Recommended if using "Dynamic Weather Overhaul"
+Feliche_Real_LongerDays_P.ucas                                   Feliche's Real Longer Days           Required if using "Feliche's Longer Days"                Recommended if using "Dynamic Weather Overhaul"
+Feliche_Real_LongerDays_P.utoc                                   Feliche's Real Longer Days           Required if using "Feliche's Longer Days"                Recommended if using "Dynamic Weather Overhaul"
+Immersive Music Ambience.pak                                     Immersive Music Ambience             Required if using "Immersive Music Ambience"
+LargeLootBox_P.pak                                               Large Loot Inventory                 Required if using "Large Loot Inventory"
+LargeLootBox_P.ucas                                              Large Loot Inventory                 Required if using "Large Loot Inventory"
+LargeLootBox_P.utoc                                              Large Loot Inventory                 Required if using "Large Loot Inventory"
+LNA01_99_P.pak                                                   LNA                                  REQUIRED
+LocalizationDB_P.pak                                             Modular Hard Mode AIO                REQUIRED
+LocalizationDB_P.ucas                                            Modular Hard Mode AIO                REQUIRED
+LocalizationDB_P.utoc                                            Modular Hard Mode AIO                REQUIRED
+MHMTextures_P.pak                                                Modular Hard Mode AIO                REQUIRED
+MHMTextures_P.ucas                                               Modular Hard Mode AIO                REQUIRED
+MHMTextures_P.utoc                                               Modular Hard Mode AIO                REQUIRED
+OXA0X.pak                                                        OXA                                  REQUIRED
+OXA0X.ucas                                                       OXA                                  REQUIRED
+OXA0X.utoc                                                       OXA                                  REQUIRED
+OXA01_P.pak                                                      OXA                                  REQUIRED
+OXA01_P.ucas                                                     OXA                                  REQUIRED
+OXA01_P.utoc                                                     OXA                                  REQUIRED
+OXA02_P.pak                                                      OXA                                  REQUIRED
+OXA02_P.ucas                                                     OXA                                  REQUIRED
+OXA02_P.utoc                                                     OXA                                  REQUIRED
+S_T_F_U.pak                                                      S.T.F.U.                             Required if using "S.T.F.U."
+Simple_ModLoader.pak                                             Simple Mod Loader                    REQUIRED                                                 Can instead be in "\Paks" instead of "\Paks\~mods"
+Simple_ModLoader.ucas                                            Simple Mod Loader                    REQUIRED                                                 Can instead be in "\Paks" instead of "\Paks\~mods"
+Simple_ModLoader.utoc                                            Simple Mod Loader                    REQUIRED                                                 Can instead be in "\Paks" instead of "\Paks\~mods"
+Simple_ModLoader_0_P.pak                                         Simple Mod Loader                    REQUIRED                                                 Can instead be in "\Paks" instead of "\Paks\~mods"
+Svarog_Detector_Textures_P.pak                                   Svarog Detector                      Required if using "Svarog Detector"                      Needs patch: zzzzzzz_MHM_Svarog_Detector_Patch_P.pak
+Svarog_Detector_Textures_P.ucas                                  Svarog Detector                      Required if using "Svarog Detector"                      Needs patch: zzzzzzz_MHM_Svarog_Detector_Patch_P.pak
+Svarog_Detector_Textures_P.utoc                                  Svarog Detector                      Required if using "Svarog Detector"                      Needs patch: zzzzzzz_MHM_Svarog_Detector_Patch_P.pak
+Vanilla_AIGlobals_XRay_Fix_P.pak                                 Stop NPCs X-Ray Vision               Required if using "Stop NPCs X-Ray Vision"               Don't use with "A-Life Found a Way". Make sure to update "engine.ini".
+xxxPillhead_Textures.pak                                         Pillhead                             REQUIRED
+xxxPillhead_Textures.ucas                                        Pillhead                             REQUIRED
+xxxPillhead_Textures.utoc                                        Pillhead                             REQUIRED
+zz_DWO_WeatherPatterns_P.pak                                     Dynamic Weather Overhaul             Required if using "Dynamic Weather Overhaul"             Recommended to also use "Feliche's Longer Days"
+zz_FactionsPatch_Textures_P.pak                                  Faction Patches                      REQUIRED
+zz_FactionsPatch_Textures_P.ucas                                 Faction Patches                      REQUIRED
+zz_FactionsPatch_Textures_P.utoc                                 Faction Patches                      REQUIRED
+ZZ_Mutant_Loot_Textures_P.pak                                    Mutant Loot                          REQUIRED
+ZZ_Mutant_Loot_Textures_P.ucas                                   Mutant Loot                          REQUIRED
+ZZ_Mutant_Loot_Textures_P.utoc                                   Mutant Loot                          REQUIRED
+zz_PoZ_Blood_P.pak                                               PotZ - Better Blood Wallmarks        Required if using "PotZ - Better Blood Wallmarks"        Needs the patch: zzzzzzzzzzz_MHM_PoZBloodConfigPatch_P.pak
+zz_PoZ_Blood_P.ucas                                              PotZ - Better Blood Wallmarks        Required if using "PotZ - Better Blood Wallmarks"        Needs the patch: zzzzzzzzzzz_MHM_PoZBloodConfigPatch_P.pak
+zz_PoZ_Blood_P.utoc                                              PotZ - Better Blood Wallmarks        Required if using "PotZ - Better Blood Wallmarks"        Needs the patch: zzzzzzzzzzz_MHM_PoZBloodConfigPatch_P.pak
+zz_PoZWounds_P.pak                                               PotZ - Bloody Wounds                 Required if using "PotZ - Bloody Wounds"
+zz_PoZWounds_P.ucas                                              PotZ - Bloody Wounds                 Required if using "PotZ - Bloody Wounds"
+zz_PoZWounds_P.utoc                                              PotZ - Bloody Wounds                 Required if using "PotZ - Bloody Wounds"
+ZZZ_ProjectItemization-Textures_P.pak                            Project Itemization                  REQUIRED
+ZZZ_ProjectItemization-Textures_P.ucas                           Project Itemization                  REQUIRED
+ZZZ_ProjectItemization-Textures_P.utoc                           Project Itemization                  REQUIRED
+zzzz_am3_SLZxMHM_v1.2.1_P.pak                                    Shay's Living Zone                   Required if using "Shay's Living Zone"                   Don't use with "A-Life Found a Way"
+zzzzzz_MutantPhysicsFix.pak                                      Mutant Physics and Audio Fix         Required if using "Mutant Physics and Audio Fix"
+zzzzzz_NoSuperHearing_P.pak                                      Instant Long Range Aggression Fix    Required if using "Instant Long Range Aggression Fix"
+zzzzzz_NoSuperVisionEither_P.pak                                 Instant Long Range Aggression Fix    Required if using "Instant Long Range Aggression Fix"
+zzzzzz_NPCCombatOverhaul_P.pak                                   NPC Combat Overhaul                  Required if using "NPC Combat Overhaul"
+zzzzzz_ThreatNeededBalance_P.pak                                 Instant Long Range Aggression Fix    Required if using "Instant Long Range Aggression Fix"
+zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak                            Modular Hard Mode AIO                REQUIRED (only one)                                      Don't use both Hardcore and Standard
+zzzzzzz_MHM_2.0_AIO_Full_Standard.pak                            Modular Hard Mode AIO                REQUIRED (only one)                                      Don't use both Hardcore and Standard
+zzzzzzz_MHM_Svarog_Detector_Patch_P.pak                          Modular Hard Mode AIO                Required if using "Svarog Detector"                      Needs the 3 texture files: Svarog_Detector_Textures_P*.
+zzzzzzz_RadioInterference_P.pak                                  Instant Long Range Aggression Fix    Optional if using "Instant Long Range Aggression Fix"
+zzzzzzzz_ALife_Found_A_Way_P.pak                                 A-Life Found a Way                   Required for "A-Life Found a Way"                        Needs patch: zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak OR zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak. Don't use with Shay's Living Zone.
+zzzzzzzzzzz_MHM_PoZBloodConfigPatch_P.pak                        Modular Hard Mode AIO                Required for "PotZ - Better Blood Wallmarks"             Needs the 3 texture files: zz_PoZ_Blood_P*.
+zzzzzzzzzzzz_MHM_2.0_AIO_Hardcore_Gamepad_Friendly_Patch_P.pak   Modular Hard Mode AIO                Optional                                                 For Hardcore only
+zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak              Modular Hard Mode AIO                Optional                                                 For Standard only
+zzzzzzzzzzzz_MHM_CampfireSaves.pak                               Modular Hard Mode AIO                Optional                                                 For Standard only
+zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak                   Modular Hard Mode AIO                Required for "A-Life Found a Way" (only one)             Don't use with Master Mode. Needs original mod file: zzzzzzzz_ALife_Found_A_Way_P.pak. Don't use with Shay's Living Zone.
+zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak                     Modular Hard Mode AIO                Optional                                                 For Hardcore only
+zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak    Modular Hard Mode AIO                Required for "A-Life Found a Way" (only one)             Master Mode only. Needs original mod file: zzzzzzzz_ALife_Found_A_Way_P.pak. Don't use with Shay's Living Zone.
