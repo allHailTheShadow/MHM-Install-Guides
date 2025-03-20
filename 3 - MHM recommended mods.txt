@@ -28,8 +28,8 @@ ALIFE
 		Download "ALife_Found_A_Way_1.5.3" main file
 		Copy "zzzzzzzz_ALife_Found_A_Way_P.pak" to "~mods"
 		Copy --one-- of the files from the MHM AIO\Patches and Addons\Patch: A-Life Found a Way":
-		If using Master Mode addon:	Copy "zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak" to "~mods"
-		Otherwise:					Copy "zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak" to "~mods"
+		If using Master Mode addon:    Copy "zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak" to "~mods"
+		Otherwise:                     Copy "zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak" to "~mods"
 
 
 
