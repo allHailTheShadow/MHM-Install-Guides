@@ -51,14 +51,14 @@ ALIFE
 	Stop NPC's X Ray Vision and other tweaks﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1001
 		Download "Recommended_Engine_ini_Additions"
-		
-		If using "A-Life uh... Found a Way﻿"    : DON'T Copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods" (it is included in the A-Life mod)
-		If not using "A-Life uh... Found a Way﻿": DO copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods"
+
+		If using "A-Life uh... Found a Way﻿" or AIO: DON'T Copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods" (it is included in the A-Life mod)
+		If not using "A-Life uh... Found a Way﻿"   : DO copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods"
 		
 		If Gamepass: Copy "engine.ini" to "%localappdata%\Stalker2\Saved\Config\WinGDK"
 		If Steam   : Copy "engine.ini" to "%localappdata%\Stalker2\Saved\Config\Windows"
 
-		Optional	: --APPEND-- the contents of the "Optional Performance\engine.ini" to your "engine.ini" located above.
+		Optional: --APPEND-- the contents of the "Optional Performance\engine.ini" to your "engine.ini" located above.
 
 	S.T.F.U: Shut those factions up!
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1056
