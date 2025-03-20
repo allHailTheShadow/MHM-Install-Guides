@@ -70,6 +70,9 @@ Required Mods:
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/304?tab=files
 		Download the "SimpleModLoader" main file
 		Copy all four files from "Stalker2\Content\Paks" to "~mods"
+		Mod installation instructions specify to place it in "\Paks", rather than "\Paks\~mods"
+		It should work either way, and at this stage be considered a user preference.
+		If you need to load a mod with "mod add /Game/Mods/~~whatever~~/ModActor.ModActor_C" and it doesn't work, you could try moving SMM to "\Paks".
 
 
 
