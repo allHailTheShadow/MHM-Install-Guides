@@ -106,7 +106,7 @@ For a standard MHM AIO setup, without additional mods/addons/patches your "~mods
 	ZZZ_ProjectItemization-Textures_P.pak
 	ZZZ_ProjectItemization-Textures_P.ucas
 	ZZZ_ProjectItemization-Textures_P.utoc
-	zzzzzzz_MHM_2.0_AIO_Full_Standard.pak __OR__ zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak
+	zzzzzzz_MHM_2.0_AIO_Full_Standard.pak    --OR--    zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak
 
 
 
