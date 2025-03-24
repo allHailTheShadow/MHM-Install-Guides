@@ -1,4 +1,4 @@
-===== MHM AIO Recommended Mods =====
+===== MHM Recommended Mods =====
 
 Recommended mods info:
 	These are mods that are recommended by the MHM author to supplement the setup.
@@ -29,9 +29,9 @@ ALIFE
 		REQIRES "Stop NPCs X-Ray Vision and Other Collision Tweaks"
 		Download "ALife_Found_A_Way" main file
 		Copy "zzzzzzzz_ALife_Found_A_Way_P.pak" to "~mods"
-		Copy --one-- of the files from the "MHM AIO\Patches and Addons\Patch: A-Life Found a Way":
-		If using Master Mode addon: Copy "zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak" to "~mods"
-		Otherwise:                  Copy "zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak" to "~mods"
+		Copy --one-- of the files from the "MHM\Patches and Addons\Patch: A-Life Found a Way":
+		    If using Master Mode addon: Copy "zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak" to "~mods"
+		    Otherwise:                  Copy "zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak" to "~mods"
 
 ﻿AI / NPC
 	NPC Combat Overhaul
@@ -110,7 +110,7 @@ USER INTERFACE
 		This one is packaged a bit differently.
 		From "Manual Install\Pick from only one\I want the defaults" folder, copy the three "zz_PoZ_Blood_P*" files to "~mods"
 		DON'T copy the "zz_PoZ_BloodConfig_P.pak" file.
-		Copy the file from the MHM AIO\Patches and Addons\Patch: Painter of the Zone - Blood Wallmarks" to "~mods"
+		Copy the file from the MHM\Patches and Addons\Patch: Painter of the Zone - Blood Wallmarks" to "~mods"
 
 	Painter of the Zone - Bloody Wounds
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/394
@@ -126,4 +126,4 @@ USER INTERFACE
 		Download "Main files" main file.
 		Copy the three "Svarog_Detector_Textures_P*" to "~mods"
 		DON'T copy the "Svarog_Detector_P.pak".
-		Copy the file from the MHM AIO\Patches and Addons\Patch: Svarog Detector" to "~mods"
+		Copy the file from the MHM\Patches and Addons\Patch: Svarog Detector" to "~mods"
