@@ -41,22 +41,25 @@ ALIFE
 
 	Instant Long Range Aggression Fix
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/633
-		Download all four of the main files:
-			zzzzzzz_RadioInterference
+		Download the three required files:
 			zzzzzz_NoSuperHearing
 			zzzzzz_NoSuperVisionEither
 			zzzzzz_ThreatNeededBalance
+		The fourth file is optional (but recommended):
+			zzzzzzz_RadioInterference
 		Copy the pak file from each of the downloads to "~mods"
 
 	Stop NPC's X Ray Vision and other tweaks﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1001
 		Download "Recommended_Engine_ini_Additions"
 
-		If using "A-Life uh... Found a Way﻿" or AIO: DON'T Copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods" (it is included in the A-Life mod)
-		If not using "A-Life uh... Found a Way﻿"   : DO copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods"
-		
-		If Gamepass: Copy "engine.ini" to "%localappdata%\Stalker2\Saved\Config\WinGDK"
-		If Steam   : Copy "engine.ini" to "%localappdata%\Stalker2\Saved\Config\Windows"
+		Using "A-Life Found a Way" or the MHM AIO:
+			Yes:	DON'T Copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods" (it is included in the A-Life mod)
+			No :	DO copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods"
+
+		Gamepass or Steam?
+			Gamepass:	Copy "engine.ini" to "%localappdata%\Stalker2\Saved\Config\WinGDK"
+			Steam   :	Copy "engine.ini" to "%localappdata%\Stalker2\Saved\Config\Windows"
 
 		Optional: --APPEND-- the contents of the "Optional Performance\engine.ini" to your "engine.ini" located above.
 
@@ -97,7 +100,8 @@ USER INTERFACE
 
 	Feliche's Real Longer Days﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/35
-		Download "Real Longer Days" main file
+		Recommended if using Dynamic Weather Overhaul.
+		Download "Real Longer Days" main file.
 		READ the mod page. You will need to pick a ratio, and a time stretch.
 		Once you have done this copy the three "Feliche_Real_LongerDays_P*" files from your folder choices to "~mods"
 
@@ -108,9 +112,10 @@ USER INTERFACE
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/99
 		Download "PainteroftheZone_BetterDecal" main file.
 		This one is packaged a bit differently.
-		From "Manual Install\Pick from only one\I want the defaults" folder, copy the three "zz_PoZ_Blood_P*" files to "~mods"
+		From "Manual Install\Pick from only one\I want the defaults" folder, copy the three "zz_PoZ_Blood_P*" files to "~mods".
+		Choosing from the custom folders won't work, because it is the compatiblity patch provided by MHM that sets the configuration.
 		DON'T copy the "zz_PoZ_BloodConfig_P.pak" file.
-		Copy the file from the MHM\Patches and Addons\Patch: Painter of the Zone - Blood Wallmarks" to "~mods"
+		Copy the file from "MHM\Patches and Addons\Patch: Painter of the Zone - Blood Wallmarks" to "~mods"
 
 	Painter of the Zone - Bloody Wounds
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/394
@@ -126,4 +131,4 @@ USER INTERFACE
 		Download "Main files" main file.
 		Copy the three "Svarog_Detector_Textures_P*" to "~mods"
 		DON'T copy the "Svarog_Detector_P.pak".
-		Copy the file from the MHM\Patches and Addons\Patch: Svarog Detector" to "~mods"
+		Copy the file from "MHM\Patches and Addons\Patch: Svarog Detector" to "~mods"
