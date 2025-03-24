@@ -1,10 +1,10 @@
-===== MHM AIO Addons Setup =====
+===== MHM Addons Setup =====
 
 Addons info:
-	These are --optional-- addons to customise your base MHM AIO install.
+	These are --optional-- addons to customise your base MHM install.
 	These are to be added on top of existing MHM setup.
 	Choose any/all/none as you see fit.
-	These files are in the "Patches and Addons" folder in the MHM AIO.
+	These files are in the "Patches and Addons" folder in the MHM AIO or MHM Core Module.
 
 
 
@@ -20,7 +20,7 @@ CAVEAT EMPTOR:
 Addons:
 	Hardcore AIO for Gamepad Users:
 		Desc:		Lowers mutant speed (easier for Gampad)
-		For:		Hardcore only
+		For:		Hardcore only. AIO only.
 		Install:	Copy "zzzzzzzzzzzz_MHM_2.0_AIO_Hardcore_Gamepad_Friendly_Patch_P.pak" to "~mods"
 
 	Master Mode for Hardcore AIO:
@@ -28,7 +28,7 @@ Addons:
 				You also can now only save at campfires/beds.
 				Needs new game.
 				Not compatible with Quick Start Skip Intro mods.
-		For:		Hardcore only
+		For:		Hardcore only. AIO only.
 		Install:	Copy "zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak" to "~mods"
 
 	MHM Campfire Saves:
@@ -62,5 +62,5 @@ Addons:
 	Relaxed Mode for Veteran AIO:
 		Desc:		Less hardcore than Standard.
 				Tones things down a bit for easier game.
-		For:		Standard only
+		For:		Standard only. AIO only.
 		Install:	Copy "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak" to "~mods"
