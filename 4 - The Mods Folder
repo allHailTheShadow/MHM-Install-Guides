@@ -10,7 +10,7 @@ Notes:
     * Files in your mods folder that are not listed here are likely to cause issues, unless you know exactly what you are doing.
     * Use this to eliminate potential issues with your setup.
     * If file listing ends with (pak,ucas,utoc) that means you need all three of the files.
-    * At this stage, this is based on the AIO version of MHM (not individual modules version) (TODO)
+    * At this stage, this is based on the AIO version of MHM (not individual modules version), but is still largely applicable (TODO)
 
 
 =============================================================================================================================================================================================================================================================================================================
