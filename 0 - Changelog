@@ -2,7 +2,8 @@
 
 2025-03-21:  Added "4 - The Mods Folder" which contains info about what should/can be in your mods folder.
 
-2025-03-25:  * Made "Addons" and "Recommended Mods" agnostic about AIO or Modules
-             * Part 4: Combined pak/ucas/utoc lines to eliminate duplicate information cluttering up the place
+2025-03-25:  * Made "2 MHM Addons" and "3 - Recommended Mods" agnostic about AIO or Modules
+             * "4 - The Mods Folder" - Combined pak/ucas/utoc lines to eliminate duplicate information cluttering up the place
              * Lots of small fixes/clarifications/typo/spelling
              * Added important information about unsupported mods to part 3
+             * Major reformat of "99 - My Recommendations"
