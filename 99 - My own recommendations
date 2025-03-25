@@ -41,7 +41,7 @@ Recommended
 		On the fence about it with new patch 1.3
 		Will probably wait to see for now
 		
-		One thing I --DO-- recommended is getting the dummy "CChromaEditorLibrary64.dll" file (only) from "STK2 - SPF"
+		One thing I --DO-- recommended is getting the dummy "CChromaEditorLibrary64.dll" file (only) from "STK2 - SPF" (https://www.nexusmods.com/stalker2heartofchornobyl/mods/9)
 		Overwrite the original in "<gamedir>\Stalker2\Plugins\ChromaSDKPlugin\ThirdParty\Win64"
 		Make a backup of the original if you wish
 		
