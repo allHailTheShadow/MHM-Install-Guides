@@ -11,6 +11,15 @@ Recommended mods info:
 	Use any/all/none as you see fit.
 
 
+IMPORTANT:
+	Be cautious of adding mods on top of big overhauls like this one.
+
+	Unless there are compatibility patches made by the mod authors, or you know for sure that
+	they aren't editing the same files, then you are likely to have issues.
+
+	Unsupported mods are the number one cause of problems encountered on the forum.
+
+
 ALIFE
 	Use "Shay's Living Zone" --OR-- "A-Life uh... Found a Way", but not both
 
