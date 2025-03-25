@@ -1,9 +1,16 @@
 ===== Your "~mods" Folder =====
 
-* This file contains information about what should and can be in your "/mods" folder.
-* Files in your mods folder that are not listed here are likely to cause issues, unless you know exactly what you are doing.
-* Use this to eliminate potential issues with your setup.
-* If file listing ends with (pak,ucas,utoc) that means you need all three of the files.
+CAUTION:
+	I have no official association or contact with the mod author.
+	Its contents are quite possible WRONG.
+
+
+Notes:
+    * This file contains information about what should and can be in your "/mods" folder.
+    * Files in your mods folder that are not listed here are likely to cause issues, unless you know exactly what you are doing.
+    * Use this to eliminate potential issues with your setup.
+    * If file listing ends with (pak,ucas,utoc) that means you need all three of the files.
+
 
 =============================================================================================================================================================================================================================================================================================================
 Filename                                                         Source                               Required/Recommended/Optional for...                     Notes
