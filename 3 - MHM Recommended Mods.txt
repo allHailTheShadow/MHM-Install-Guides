@@ -1,19 +1,14 @@
 ===== MHM Recommended Mods =====
 
+CAUTION:
+	I have no official association or contact with the mod author.
+	Its contents are quite possible WRONG.
+
+
 Recommended mods info:
 	These are mods that are recommended by the MHM author to supplement the setup.
 	Read the Mod Description page before deciding to use any.
 	Use any/all/none as you see fit.
-
-
-
-CAVEAT EMPTOR:
-	I have no official association or contact with the mod author.
-	I really like this mod, and want it to work for everyone.
-	This is simply my attempt to give people a detailed install guide.
-	Its contents are quite possible WRONG.
-	Feel free to correct me.
-
 
 
 ALIFE
