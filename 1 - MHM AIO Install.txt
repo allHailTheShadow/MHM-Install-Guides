@@ -15,18 +15,27 @@ Base setup info:
 	If it does exist, delete anything in there, and start fresh.
 
 
-MHM AIO:
-	Download the "Modular Hard Mode - AIO" file
-	Copy the three "MHMTexture*" files to "~mods" folder
+MHM AIO Part A:
+	Download the "A - Modular Hard Mode - AIO" main file
+	
+	Copy the three "zzzzzzz_MHMTextures0z_P*" files to "~mods" folder
+	Copy the three "zzzzzzz_MHM_Interface0z_P*" files to "~mods" folder
 	Copy the three "LocalizationDB*" files from "Localization\Real Weapon Names Global" to "~mods" folder
-	For a base setup, you don't need any of the files in "Patches & addons".
 
 	Choose either:
 		Hardcore: From "A. Hardcore AIO" copy "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak" to "~mods"
 		--OR--
 		Standard: From "B. Standard AIO" copy "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" to "~mods"
 
-	You should now have 7 files in "~mods" folder
+	For a basic setup, you won't need any of the files in "Patches & addons" (these are covered in parts 2 and 3)
+
+	Note: You should now have 10 files in "~mods" folder
+
+MHM AIO Part B:
+	Download the "B - AIO Part II - Additional Resources" main file
+
+	Note: you may wish to backup the existing files in this directory first
+	Copy the files to "<YOUR GAME DIR>\Stalker2\Content\Movies\MainMenuVideo" and overwrite the existing files.
 
 
 Required Mods:
@@ -40,6 +49,8 @@ Required Mods:
 		Download ~only~ the "1.LNA - Linxz's NPC Attachments" main file (Not needed desolation or vanilla file)
 		Copy "LNA01_99_P.pak" to "~mods"
 
+		IMPORTANT: Only the "LNA01_99_P.pak" file from this mod is needed. NO OTHER FILES.
+
 	Mutant Loot:
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/389
 		Download the "MutantLoot" main file
@@ -49,11 +60,8 @@ Required Mods:
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/939?tab=description
 		Download the "OXA - Oxide's eXpanded Armory" main file
 		Copy ~all~ files to "~mods" --EXCEPT-- the three localization files and OXA03_P.pak
-
-	Pill Head:
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/778
-		Dowload the "Pillhead - Substances of Stalker" main file
-		Copy the three "xxxPillhead_Textures*" files to "~mods"
+		
+		IMPORTANT: Do NOT install OXA03_P.pak
 
 	Project Itemization:
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/445
@@ -70,14 +78,17 @@ Required Mods:
 
 
 Your mods folder:
-	For a standard MHM AIO setup, without additional mods/addons/patches your "~mods" folder should contain the following:
+	For a standard MHM AIO setup, without additional mods/addons/patches your "~mods" folder should contain ~ONLY~ the following:
 		LNA01_99_P.pak
 		LocalizationDB_P.pak     (from MHM_AIO, not from any other mod)
 		LocalizationDB_P.ucas    (from MHM_AIO, not from any other mod)
 		LocalizationDB_P.utoc    (from MHM_AIO, not from any other mod)
-		MHMTextures_P.pak
-		MHMTextures_P.ucas
-		MHMTextures_P.utoc
+		zzzzzzz_MHMTextures0z_P.pak
+		zzzzzzz_MHMTextures0z_P.ucas
+		zzzzzzz_MHMTextures0z_P.utoc
+		zzzzzzz_MHM_Interface0z_P.pak
+		zzzzzzz_MHM_Interface0z_P.ucas
+		zzzzzzz_MHM_Interface0z_P.utoc
 		OXA0X.pak
 		OXA0X.ucas
 		OXA0X.utoc
@@ -91,9 +102,6 @@ Your mods folder:
 		Simple_ModLoader.ucas
 		Simple_ModLoader.utoc
 		Simple_ModLoader_0_P.pak
-		xxxPillhead_Textures.pak
-		xxxPillhead_Textures.ucas
-		xxxPillhead_Textures.utoc
 		zz_FactionsPatch_Textures_P.pak
 		zz_FactionsPatch_Textures_P.ucas
 		zz_FactionsPatch_Textures_P.utoc
@@ -104,6 +112,11 @@ Your mods folder:
 		ZZZ_ProjectItemization-Textures_P.ucas
 		ZZZ_ProjectItemization-Textures_P.utoc
 		zzzzzzz_MHM_2.0_AIO_Full_Standard.pak    --OR--    zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak
+
+
+IMPORTANT
+	Make double sure that you have ~NOT~ installed any of LNA file other than "LNA01_99_P.pak"
+	Make double sure that you have ~NOT~ installed "OXA03_P.pak" from OXA
 
 
 Final Step:
