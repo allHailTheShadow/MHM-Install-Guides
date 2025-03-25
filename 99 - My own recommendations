@@ -36,21 +36,6 @@ Recommended:
 
 Somewhat recommended - depends on personal taste:
 
-	MinUI Suite - MinUI
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/756
-		Download "MinUI" main file
-		Copy the three "zzzzzzzzz_MJRamon_MinUI_P*" files to "~mods"
-
-	MinUI Suite - MinHUD
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/757
-		Download "MinHUD" main file
-		Copy the three "zzzzzzzzz_MJRamon_MinHUD_P*" files to "~mods"
-
-	MinUI Suite - Clean Button Prompts
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/758
-		Download "Clean Button Prompts" main file of your choice (one or the other)
-		Copy the three "zzzzzzzzz_MJRamon_CleanPromptsUI_*_P*" files to "~mods"
-
 	Skip Prologue (wake up with Richter)
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/981
 		If you have seen/played the intro one too many times...
@@ -94,6 +79,24 @@ Somewhat Recommended - has issues:
 		Copy the three "GrabObjects*" files to "~mods"
 		Change settings as per article on mod page: https://www.nexusmods.com/stalker2heartofchornobyl/articles/154
 		Run command: mod add /Game/Mods/GrabObjects/ModActor.ModActor_C
+
+
+No Longer Recommended (The included UI components of MHM 2.0.8 is superior)
+
+	MinUI Suite - MinUI
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/756
+		Download "MinUI" main file
+		Copy the three "zzzzzzzzz_MJRamon_MinUI_P*" files to "~mods"
+
+	MinUI Suite - MinHUD
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/757
+		Download "MinHUD" main file
+		Copy the three "zzzzzzzzz_MJRamon_MinHUD_P*" files to "~mods"
+
+	MinUI Suite - Clean Button Prompts
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/758
+		Download "Clean Button Prompts" main file of your choice (one or the other)
+		Copy the three "zzzzzzzzz_MJRamon_CleanPromptsUI_*_P*" files to "~mods"
 
 
 Somewhat recommended - mainly for testing purposes for mod authors / specific stuck in game issues
