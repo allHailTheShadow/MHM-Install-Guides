@@ -17,7 +17,7 @@ IMPORTANT:
 	Unless there are compatibility patches made by the mod authors, or you know for sure that
 	they aren't editing the same files, then you are likely to have issues.
 
-	Unsupported mods are the number one cause of problems encountered on the forum.
+	Unsupported mods are a major source of most of the problems users encounter with MHM.
 
 
 ALIFE
