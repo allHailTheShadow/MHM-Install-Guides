@@ -6,8 +6,19 @@ CAUTION:
 
 
 Info:
-	Some mods that I use that seem to work well with MHM
-	These don't seem to have any conflicts, and don't require compatibility patches.
+	After trawling through about a thousand mods on NexusMods, there is very little I would recommend to
+	add on top of MHM and the MHM authors recommendations, because they mostly they comprise of:
+		* Stuff that makes some small change that MHM already covers, but would break MHM
+		* Lots of crappy performance mods, that mostly do more harm than good
+		* Non-Lore-Friendly stuff
+		* Lots of reshades that are very much taste dependent
+		* Stuff that hasn't been updated for 1.3 patch (or even earlier versions of the game)
+		* Cheat mods for carry weight, stamina, etc, that just don't fit with MHM
+		* Weapon skins etc, that depend on taste but would need patches to work (would break MHM otherwise)
+
+	Not trying to shit on mod authors, a lot of these mods are amazing, and a lot of work goes into them. It is just
+	that not many of them would fit with a full MHM setup without needing patches for compatiblity and balance, etc.
+	I personally feel that very little else is needed besides MHM and it's recommended mods.
 
 
 Recommended:
@@ -26,7 +37,8 @@ Recommended:
 
 		********************************************************************************************
 		Whether or not you use razer/chroma products, this plugin is known to cause issues.
-		The file from this mod will replace it with a dummy .dll file that essentially does nothing.
+		The file from this mod will replace it with a dummy .dll file that essentially does nothing
+		when called.
 		********************************************************************************************
 
 		Get the dummy "CChromaEditorLibrary64.dll" file (only) from the "STK2 - SPF" main file
@@ -44,9 +56,11 @@ Somewhat recommended - depends on personal taste:
 	Performance/Optimization/FPS/Anti-lag mods:
 		I was previously using a performance mod, but am now on the fence about it with the new 1.3 patch.
 		I am cautious of recommending one over another, as everyone has different hardware and fps vs lag preferences.
+		A lot of them change visuals too.
 
 
-Somewhat Recommended - has issues:
+Somewhat Recommended
+	Nice mods that have either balance or technical issues
 
 	Stalker Faction ID
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/665
@@ -80,23 +94,25 @@ Somewhat Recommended - has issues:
 		Change settings as per article on mod page: https://www.nexusmods.com/stalker2heartofchornobyl/articles/154
 		Run command: mod add /Game/Mods/GrabObjects/ModActor.ModActor_C
 
+	New Game Start
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1211?tab=files
+		Amazing work without the official SDK.
+		If you have finished the game and want a freeplay mod, this is what you are looking for.
+		Have to customize install for each type of start - no ingame selector (yet)
+		Needs updated compatability patch (current patch only for 2.0.5, current MHM version 2.0.8)
 
-No Longer Recommended (The included UI components of MHM 2.0.8 is superior)
+	Shay's - Talk and Trade To Anyone (S-TTTA)
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1209
+		No more "talk to the boss".
+		Why not fully recommended? Needs a compatability patch if used with the S.T.F.U. mod.
+		If you don't use S.T.F.U., then this mod has no issues working with MHM.
 
-	MinUI Suite - MinUI
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/756
-		Download "MinUI" main file
-		Copy the three "zzzzzzzzz_MJRamon_MinUI_P*" files to "~mods"
+No Longer Recommended
 
-	MinUI Suite - MinHUD
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/757
-		Download "MinHUD" main file
-		Copy the three "zzzzzzzzz_MJRamon_MinHUD_P*" files to "~mods"
-
-	MinUI Suite - Clean Button Prompts
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/758
-		Download "Clean Button Prompts" main file of your choice (one or the other)
-		Copy the three "zzzzzzzzz_MJRamon_CleanPromptsUI_*_P*" files to "~mods"
+	MinUI Suit (MinUI, MinHUD, Clean Button Prompts):
+		The updated UI components of MHM 2.0.8 is all you need.
+		These would now cause compatability issues.
+		Nice mods though. Just not needed for MHM.
 
 
 Somewhat recommended - mainly for testing purposes for mod authors / specific stuck in game issues
