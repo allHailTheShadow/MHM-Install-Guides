@@ -6,7 +6,7 @@ CAUTION:
 
 
 Recommended mods info:
-	These are mods that are recommended by the MHM author to supplement the setup.
+	These are mods that are recommended by the MHM author to supplement the MHM setup.
 	Read the Mod Description page before deciding to use any.
 	Use any/all/none as you see fit.
 
