@@ -1,20 +1,15 @@
 ===== MHM Addons Setup =====
 
+CAUTION:
+	I have no official association or contact with the mod author.
+	Its contents are quite possible WRONG.
+
+
 Addons info:
 	These are --optional-- addons to customise your base MHM install.
 	These are to be added on top of existing MHM setup.
 	Choose any/all/none as you see fit.
 	These files are in the "Patches and Addons" folder in the MHM AIO or MHM Core Module.
-
-
-
-CAVEAT EMPTOR:
-	I have no official association or contact with the mod author.
-	I really like this mod, and want it to work for everyone.
-	This is simply my attempt to give people a detailed install guide.
-	Its contents are quite possible WRONG.
-	Feel free to correct me.
-
 
 
 Addons:
@@ -35,13 +30,13 @@ Addons:
 		Desc:		Can only save at campfires/beds.
 				Needs new game.
 				Not compatible with Quick Start Skip Intro mods.
-		For:		Standard only
+		For:		Any except Master Mode (Already included)
 		Install:	Copy "zzzzzzzzzzzz_MHM_CampfireSaves.pak" to "~mods"
 
 	MHM Color Grading Fix:
 		Desc:		Tones down some of the color saturation in the game.
 				Need to install Reshade before it will work (this is not a standard stalker 2 mod)
-		For:		Standard or Hardcore
+		For:		Any
 		Install:	Copy "MHM.ini" to "~your game dir~\Stalker2\Binaries\Win64" folder
 				Download ReShade from "https://reshade.me/#download" and run the installer.
 				Point it to your "Stalker2.exe"
