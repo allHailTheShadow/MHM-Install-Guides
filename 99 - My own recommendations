@@ -10,7 +10,7 @@ Info:
 	These don't seem to have any conflicts, and don't require compatibility patches.
 
 
-Recommended
+Recommended:
 
 	Flashlight Customizer﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/221
@@ -20,6 +20,21 @@ Recommended
 		Enter command: mod add /Game/Mods/FLCustomizer/BP_MOD_FLCustomizer.BP_MOD_FLCustomizer_C
 		Press "Right-Alt + L" in-game to bring up customizer menu
 		You can download some kind of preset if you wish, but I just tinker with the settings until I find what felt right for me.
+
+	STK2 - SPF
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/9
+
+		********************************************************************************************
+		Whether or not you use razer/chroma products, this plugin is known to cause issues.
+		The file from this mod will replace it with a dummy .dll file that essentially does nothing.
+		********************************************************************************************
+
+		Get the dummy "CChromaEditorLibrary64.dll" file (only) from the "STK2 - SPF" main file
+		Overwrite the original in "<gamedir>\Stalker2\Plugins\ChromaSDKPlugin\ThirdParty\Win64"
+		Make a backup of the original if you wish
+
+
+Somewhat recommended - depends on personal taste:
 
 	MinUI Suite - MinUI
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/756
@@ -36,40 +51,53 @@ Recommended
 		Download "Clean Button Prompts" main file of your choice (one or the other)
 		Copy the three "zzzzzzzzz_MJRamon_CleanPromptsUI_*_P*" files to "~mods"
 
-	Optimization/Performance mods:
-		I was previously using a performance mod
-		On the fence about it with new patch 1.3
-		Will probably wait to see for now
-		
-		One thing I --DO-- recommended is getting the dummy "CChromaEditorLibrary64.dll" file (only) from "STK2 - SPF" (https://www.nexusmods.com/stalker2heartofchornobyl/mods/9)
-		Overwrite the original in "<gamedir>\Stalker2\Plugins\ChromaSDKPlugin\ThirdParty\Win64"
-		Make a backup of the original if you wish
-		
-		Whether or not you have/use Razer Chroma products, the plugin is known to cause issues.
+	Skip Prologue (wake up with Richter)
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/981
+		If you have seen/played the intro one too many times...
+		Copy "zzz_Skip_E01_MQ01_NoAwaken_P.pak" to "~mods"
 
-Somewhat Recommended
-	Stalker Faction ID﻿﻿
+	Performance/Optimization/FPS/Anti-lag mods:
+		I was previously using a performance mod, but am now on the fence about it with the new 1.3 patch.
+		I am cautious of recommending one over another, as everyone has different hardware and fps vs lag preferences.
+
+
+Somewhat Recommended - has issues:
+
+	Stalker Faction ID
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/665
 		Hopefully updated soon, it does have some issues getting the ID right
 		Download the "Pamplemousse_StalkerId" main file.
 		Copy the three "Pamplemousse_StalkerId*" files to "~mods"
 		Open console with '~' key ingame
-		Eter command:  mod add /Game/Mods/StalkerId/BP_StalkerIdentification.BP_StalkerIdentification_C
+		Enter command:  mod add /Game/Mods/StalkerId/BP_StalkerIdentification.BP_StalkerIdentification_C
+
+	Dodge
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1243
+		Out of the box settings are way off-balance.
+		Needs adjusting to be in the spirit of MHM.
+		Copy the three "Dodge*" files to "~mods"
+		Change settings as per article on mod page: https://www.nexusmods.com/stalker2heartofchornobyl/articles/145
+		Run command: mod add /Game/Mods/Dodge/ModActor.ModActor_C 
+
+	Focus Aim
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1218
+		Out of the box settings are way off-balance.
+		Needs adjusting to be in the spirit of MHM.
+		Copy the three "FocusAim*" files to "~mods"
+		Change settings as per article on mod page: https://www.nexusmods.com/stalker2heartofchornobyl/articles/152
+		Run command: mod add /Game/Mods/FocusAim/ModActor.ModActor_C
+
+	Grab Objects
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1296
+		Out of the box settings are way off-balance.
+		Needs adjusting to be in the spirit of MHM.
+		Copy the three "GrabObjects*" files to "~mods"
+		Change settings as per article on mod page: https://www.nexusmods.com/stalker2heartofchornobyl/articles/154
+		Run command: mod add /Game/Mods/GrabObjects/ModActor.ModActor_C
 
 
-Not-Recommended but interesting none-the-less:
-	Been looking at mods by rbwadle:
-		Download main files and install as normal.
-		Also run console command to activate.
-		
-		A bit cheaty, but might fit with some tweaking of the settings:
-			Dodge           mod add /Game/Mods/Dodge/ModActor.ModActor_C
-			Focus Aim       mod add /Game/Mods/FocusAim/ModActor.ModActor_C
-			Grab Objects    mod add /Game/Mods/GrabObjects/ModActor.ModActor_C
-
-		Definately VERY cheaty, not recommended, could be useful for testing:
-			Bolt Jump       mod add /Game/Mods/BoltJump/ModActor.ModActor_C
-			Locksmith       mod add /Game/Mods/Locksmith/ModActor.ModActor_C
-			Teleport        mod add /Game/Mods/Teleport2/ModActor.ModActor_C
-			
-		Not needed:
-			Night Vision    Already implemented by OXA, so no
+Somewhat recommended - mainly for testing purposes for mod authors / specific stuck in game issues
+	Bolt Jump       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1283
+	Locksmith       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1291
+	Teleport        https://www.nexusmods.com/stalker2heartofchornobyl/mods/1265
+	DebugInfo Mod	https://www.nexusmods.com/stalker2heartofchornobyl/mods/368
