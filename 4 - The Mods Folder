@@ -12,6 +12,42 @@ Notes:
     * If file listing ends with (pak,ucas,utoc) that means you need all three of the files.
     * At this stage, this is based on the AIO version of MHM (not individual modules version), but is still largely applicable (TODO)
 
+====================================================================
+For a standard MHM AIO setup, without additional mods/addons/patches
+====================================================================
+	 your "~mods" folder should contain ~ONLY~ the following:
+		LNA01_99_P.pak
+		LocalizationDB_P.(pak,ucas,utoc)	<-- (from MHM_AIO, not from any other mod)
+		zzzzzzz_MHMTextures0z_P.(pak,ucas,utoc)
+		zzzzzzz_MHM_Interface0z_P.(pak,ucas,utoc)
+		OXA0X.(pak,ucas,utoc)
+		OXA01_P.(pak,ucas,utoc)
+		OXA02_P.(pak,ucas,utoc)
+		Simple_ModLoader.(pak,ucas,utoc)
+		Simple_ModLoader_0_P.pak
+		zz_FactionsPatch_Textures_P.(pak,ucas,utoc)
+		ZZ_Mutant_Loot_Textures_P.(pak,ucas,utoc)
+		ZZZ_ProjectItemization-Textures_P.(pak,ucas,utoc)
+		zzzzzzz_MHM_2.0_AIO_Full_Standard.pak    --OR--    zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak
+
+
+==============================================================
+For a MHM install that includes additional mods/patches/addons
+==============================================================
+Consult the chart at the end to find out what's missing, or what should not be there.
+
+  * If you have files in your "~mods" folder that are not in this list, make sure you know what mod they come from.
+  * And also make sure you read the respective page for the mod to ensure that it is compatible with MHM.
+  * In all likelyhood, you will need a compatability patch for additional mods.
+  * Look for compatability patches in MHM AIO or Core Archives, as optional files on mod download pages, or inside downloaded mod archives.
+
+
+=====================
+MAIN SOURCE OF ISSUES
+=====================
+Make double sure that you have ~NOT~ installed any of LNA file other than "LNA01_99_P.pak"
+Make double sure that you have ~NOT~ installed "OXA03_P.pak" from OXA
+
 
 =============================================================================================================================================================================================================================================================================================================
 Filename                                                         Source                               Required/Recommended/Optional for...                     Notes
@@ -25,7 +61,6 @@ Immersive Music Ambience.pak                                     Immersive Music
 LargeLootBox_P.(pak,ucas,utoc)                                   Large Loot Inventory                 Required if using "Large Loot Inventory"
 LNA01_99_P.pak                                                   LNA                                  !!REQUIRED!!
 LocalizationDB_P.(pak,ucas,utoc)                                 MHM AIO                              !!REQUIRED!!
-MHMTextures_P.(pak,ucas,utoc)                                    MHM AIO                              !!REQUIRED!!
 OXA0X.(pak,ucas,utoc)                                            OXA                                  !!REQUIRED!!
 OXA01_P.(pak,ucas,utoc)                                          OXA                                  !!REQUIRED!!
 OXA02_P.(pak,ucas,utoc)                                          OXA                                  !!REQUIRED!!
@@ -34,7 +69,6 @@ Simple_ModLoader.(pak,ucas,utoc)                                 Simple Mod Load
 Simple_ModLoader_0_P.pak                                         Simple Mod Loader                    !!REQUIRED!!                                             Can instead be in "\Paks" instead of "\Paks\~mods"
 Svarog_Detector_Textures_P.(pak,ucas,utoc)                       Svarog Detector                      Required if using "Svarog Detector"                      Also needs the patch: "zzzzzzz_MHM_Svarog_Detector_Patch_P.pak"
 Vanilla_AIGlobals_XRay_Fix_P.pak                                 Stop NPCs X-Ray Vision               Required if using "Stop NPCs X-Ray Vision"               Don't use with "A-Life Found a Way". Make sure to update "engine.ini".
-xxxPillhead_Textures.(pak,ucas,utoc)                             Pillhead                             !!REQUIRED!!
 zz_DWO_WeatherPatterns_P.pak                                     Dynamic Weather Overhaul             Required if using "Dynamic Weather Overhaul"             Recommended to also use "Feliche's Longer Days"
 zz_FactionsPatch_Textures_P.(pak,ucas,utoc)                      Faction Patches                      !!REQUIRED!!
 ZZ_Mutant_Loot_Textures_P.(pak,ucas,utoc)                        Mutant Loot                          !!REQUIRED!!
@@ -49,7 +83,9 @@ zzzzzz_NPCCombatOverhaul_P.pak                                   NPC Combat Over
 zzzzzz_ThreatNeededBalance_P.pak                                 Instant Long Range Aggression Fix    Required if using "Instant Long Range Aggression Fix"
 zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak                            MHM AIO                              !!REQUIRED!! (for Hardcore)                              Don't use both Hardcore and Standard
 zzzzzzz_MHM_2.0_AIO_Full_Standard.pak                            MHM AIO                              !!REQUIRED!! (for Standard)                              Don't use both Hardcore and Standard
+zzzzzzz_MHM_Interface0z_P.(pak,ucas,utoc)                        MHM AIO                              !!REQUIRED!!
 zzzzzzz_MHM_Svarog_Detector_Patch_P.pak                          MHM AIO                              Required if using "Svarog Detector"                      Needs the 3 texture files from original mod: "Svarog_Detector_Textures_P*."
+zzzzzzz_MHMTextures0z_P.(pak,ucas,utoc)                          MHM AIO                              !!REQUIRED!!
 zzzzzzz_RadioInterference_P.pak                                  Instant Long Range Aggression Fix    Optional if using "Instant Long Range Aggression Fix"
 zzzzzzzz_ALife_Found_A_Way_P.pak                                 A-Life Found a Way                   Required for "A-Life Found a Way"                        Also needs the patch: "zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak" __OR__ "zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak". Don't use with Shay's Living Zone.
 zzzzzzzzzzz_MHM_PoZBloodConfigPatch_P.pak                        MHM AIO                              Required for "PotZ - Better Blood Wallmarks"             Needs the 3 texture files from original mod: "zz_PoZ_Blood_P*."
