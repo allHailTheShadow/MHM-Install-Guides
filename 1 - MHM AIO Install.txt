@@ -1,5 +1,10 @@
 ===== MHM AIO Base Setup =====
 
+CAUTION:
+	I have no official association or contact with the mod author.
+	Its contents are quite possible WRONG.
+
+
 Base setup info:
 	This is my attempt to get users up and going with a baseline install of MHM AIO.
 	Vortex is not recommended.
@@ -8,16 +13,6 @@ Base setup info:
 	Use a new save.
 	Create "~mods" folder in "S.T.A.L.K.E.R. 2 Heart of Chornobyl\Stalker2\Content\Paks" if it doesn't already exist.
 	If it does exist, delete anything in there, and start fresh.
-
-
-
-CAVEAT EMPTOR:
-	I have no official association or contact with the mod author.
-	I really like this mod, and want it to work for everyone.
-	This is simply my attempt to give people a detailed install guide.
-	Its contents are quite possible WRONG.
-	Feel free to correct me.
-
 
 
 MHM AIO:
@@ -32,7 +27,6 @@ MHM AIO:
 		Standard: From "B. Standard AIO" copy "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" to "~mods"
 
 	You should now have 7 files in "~mods" folder
-
 
 
 Required Mods:
@@ -75,42 +69,41 @@ Required Mods:
 		If you need to load a mod with "mod add /Game/Mods/~~whatever~~/ModActor.ModActor_C" and it doesn't work, you could try moving SMM to "\Paks".
 
 
-
-For a standard MHM AIO setup, without additional mods/addons/patches your "~mods" folder should contain the following:
-	LNA01_99_P.pak
-	LocalizationDB_P.pak     (from MHM_AIO, not from any other mod)
-	LocalizationDB_P.ucas    (from MHM_AIO, not from any other mod)
-	LocalizationDB_P.utoc    (from MHM_AIO, not from any other mod)
-	MHMTextures_P.pak
-	MHMTextures_P.ucas
-	MHMTextures_P.utoc
-	OXA0X.pak
-	OXA0X.ucas
-	OXA0X.utoc
-	OXA01_P.pak
-	OXA01_P.ucas
-	OXA01_P.utoc
-	OXA02_P.pak
-	OXA02_P.ucas
-	OXA02_P.utoc
-	Simple_ModLoader.pak
-	Simple_ModLoader.ucas
-	Simple_ModLoader.utoc
-	Simple_ModLoader_0_P.pak
-	xxxPillhead_Textures.pak
-	xxxPillhead_Textures.ucas
-	xxxPillhead_Textures.utoc
-	zz_FactionsPatch_Textures_P.pak
-	zz_FactionsPatch_Textures_P.ucas
-	zz_FactionsPatch_Textures_P.utoc
-	ZZ_Mutant_Loot_Textures_P.pak
-	ZZ_Mutant_Loot_Textures_P.ucas
-	ZZ_Mutant_Loot_Textures_P.utoc
-	ZZZ_ProjectItemization-Textures_P.pak
-	ZZZ_ProjectItemization-Textures_P.ucas
-	ZZZ_ProjectItemization-Textures_P.utoc
-	zzzzzzz_MHM_2.0_AIO_Full_Standard.pak    --OR--    zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak
-
+Your mods folder:
+	For a standard MHM AIO setup, without additional mods/addons/patches your "~mods" folder should contain the following:
+		LNA01_99_P.pak
+		LocalizationDB_P.pak     (from MHM_AIO, not from any other mod)
+		LocalizationDB_P.ucas    (from MHM_AIO, not from any other mod)
+		LocalizationDB_P.utoc    (from MHM_AIO, not from any other mod)
+		MHMTextures_P.pak
+		MHMTextures_P.ucas
+		MHMTextures_P.utoc
+		OXA0X.pak
+		OXA0X.ucas
+		OXA0X.utoc
+		OXA01_P.pak
+		OXA01_P.ucas
+		OXA01_P.utoc
+		OXA02_P.pak
+		OXA02_P.ucas
+		OXA02_P.utoc
+		Simple_ModLoader.pak
+		Simple_ModLoader.ucas
+		Simple_ModLoader.utoc
+		Simple_ModLoader_0_P.pak
+		xxxPillhead_Textures.pak
+		xxxPillhead_Textures.ucas
+		xxxPillhead_Textures.utoc
+		zz_FactionsPatch_Textures_P.pak
+		zz_FactionsPatch_Textures_P.ucas
+		zz_FactionsPatch_Textures_P.utoc
+		ZZ_Mutant_Loot_Textures_P.pak
+		ZZ_Mutant_Loot_Textures_P.ucas
+		ZZ_Mutant_Loot_Textures_P.utoc
+		ZZZ_ProjectItemization-Textures_P.pak
+		ZZZ_ProjectItemization-Textures_P.ucas
+		ZZZ_ProjectItemization-Textures_P.utoc
+		zzzzzzz_MHM_2.0_AIO_Full_Standard.pak    --OR--    zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak
 
 
 Final Step:
