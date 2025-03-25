@@ -25,6 +25,7 @@ Recommended:
 
 	Flashlight Customizer﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/221
+		I hate the default flashlight. I had a $5 torch from a supermarket when I was a kid that worked better.
 		Download "Flashlight_Tweaker" main file
 		Copy the three "Flashlight_Customizer*" files to mods.
 		Open console with '~' key ingame
@@ -59,12 +60,11 @@ Somewhat recommended - depends on personal taste:
 		A lot of them change visuals too.
 
 
-Somewhat Recommended
-	Nice mods that have either balance or technical issues
+Somewhat Recommended - Nice mods that have either balance or technical issues
 
 	Stalker Faction ID
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/665
-		Hopefully updated soon, it does have some issues getting the ID right
+		Hopefully updated soon, it does have some issues getting the IDs right
 		Download the "Pamplemousse_StalkerId" main file.
 		Copy the three "Pamplemousse_StalkerId*" files to "~mods"
 		Open console with '~' key ingame
@@ -107,6 +107,21 @@ Somewhat Recommended
 		Why not fully recommended? Needs a compatability patch if used with the S.T.F.U. mod.
 		If you don't use S.T.F.U., then this mod has no issues working with MHM.
 
+	Skill Magazines
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1152
+		Very interesting mod, but wildly unbalanced for MHM
+		
+	ART - Artifacts Reforged and Transformed
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1071
+		Interesting looking artifacts mod.
+		Has a compatability patch for MHM.
+		Might have balance issues, and MHM will eventually cover artifacts anyway.
+
+	Elemental Artifacts
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1129?file_id=7705
+		Another interesting looking artifacts mod.
+		Might have balance issues, and MHM will eventually cover artifacts anyway.
+		
 No Longer Recommended
 
 	MinUI Suit (MinUI, MinHUD, Clean Button Prompts):
@@ -115,7 +130,7 @@ No Longer Recommended
 		Nice mods though. Just not needed for MHM.
 
 
-Somewhat recommended - mainly for testing purposes for mod authors / specific stuck in game issues
+Somewhat recommended - mainly for testing purposes for mod authors / specific stuck in game issues. Very cheaty.
 	Bolt Jump       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1283
 	Locksmith       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1291
 	Teleport        https://www.nexusmods.com/stalker2heartofchornobyl/mods/1265
