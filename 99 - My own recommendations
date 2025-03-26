@@ -111,9 +111,8 @@ Somewhat Recommended - Nice mods that have balance and/or technical issues
 	Shay's - Roaming Professions - Expanded Trade Inventory (S-RPETI)
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1210
 		Some NPCs have a trade inventory based on their profession. Low chance of 
-		spawning. Trade inventory is drawn from faction traders.
+		spawning. Trade inventory is drawn from their respective faction traders.
 		Unbalanced for MHM (perhaps - not tested yet).
-		
 
 	Shay's - Talk and Trade To Anyone (S-TTTA)
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1209
@@ -126,6 +125,7 @@ Somewhat Recommended - Nice mods that have balance and/or technical issues
 		Has a compatibility patch for MHM (might be outdated, check first).
 		Unbalanced for MHM.
 		MHM will eventually cover artifacts anyway.
+
 
 Not Recommended - Interesting mods that have compatibility and/or technical issues.
 
@@ -162,6 +162,7 @@ Not Recommended - Interesting mods that have compatibility and/or technical issu
 		in an adjustable radius.
 		Not compatibile. No patch exists.
 
+
 Untested
 	These are technically compatible, but not sure how they would work overall with MHM.
 
@@ -184,7 +185,7 @@ No Longer Recommended
 		Nice mods though. Just not needed for MHM.
 
 
-Somewhat recommended - mainly for testing purposes for mod authors / specific stuck in game issues. Very cheaty.
+Recommended for testing purposes for mod authors / specific stuck in game issues. Very cheaty.
 	Bolt Jump       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1283
 	Locksmith       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1291
 	Teleport        https://www.nexusmods.com/stalker2heartofchornobyl/mods/1265
