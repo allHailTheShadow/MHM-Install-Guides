@@ -1,28 +1,86 @@
-===== MHM My Additional Mods =====
-
-CAUTION:
-	I have no official association or contact with the mod author.
-	These guides are UNOFFICIAL.
+===== MHM Other Mods =====
 
 
-Info:
-	After trawling through about a thousand mods on NexusMods, there is very little I would recommend to
+========
+CONTENTS
+========
+	01 - Info
+	02 - About Adding Other Mods
+	03 - Recommended
+		* Flashlight Customizer﻿
+		* STK2 - SPF                <-- Only for CChromaEditorLibrary64.dll replacement.
+		* Improved Saves Modular    <-- Not for Campfire Saves or Master-Mode
+	04 - Somewhat Recommended (User Preference)
+		* Gun Jam Swearing
+		* Performance/Optimization/FPS/Anti-lag/...
+	05 - Somewhat Recommended (Has Balance/Technical Issues)
+		* ART - Artifacts Reforged and Transformed
+		* Dodge
+		* Focus Aim
+		* Grab Objects
+		* New Game Start
+		* Shay's - Roaming Professions - Expanded Trade Inventory (S-RPETI)
+		* Shay's - Talk and Trade To Anyone (S-TTTA)
+		* Stalker Faction ID
+	06 - Not Currently Recommended (Has Compatibility/Technical Issues)
+		* Artifacts Overhaul		
+		* Elemental Artifacts
+		* Ledge Grabbing
+		* NPCS cant THROW
+		* Skill Magazines
+	07 - Untested
+		* Separated Helmets and Armor
+		* Extended Equipment
+	08 - No Longer Recommended
+		* MinUI - MinUI
+		* MinUI - MinHUD
+		* MinUI - Clean Button Prompts
+	09 - For Mod Testing / Game Progress Issues Only
+		* Bolt Jump
+		* Locksmith
+		* Teleport
+		* DebugInfo Mod
+
+
+=========
+01 - Info
+=========
+	After trawling through about a thousand mods on NexusMods, there is very little I would recommend to 
 	add on top of MHM and the MHM authors recommendations, because they mostly they comprise of:
 		* Stuff that makes some small change that MHM already covers, but would break MHM
 		* Performance mods, some of them quite questionable
 		* Non-Lore-Friendly stuff
 		* Reshades that are very much taste dependent
 		* Stuff that hasn't been updated for latest patch (not every mod needs to be, but some definately do).
-		* Cheat mods for carry weight, stamina, etc, that just don't fit with MHM
+		* Cheat mods for carry weight, stamina, etc, that just don't fit with MHM (and would be incompatible anyway)
 		* Weapon skins etc, that depend on taste but would need patches to work (would break MHM otherwise)
 
 	Not trying to shit on mod authors, a lot of these mods are amazing, and a lot of work goes into them. It is just
-	that not many of them would fit with a full MHM setup without needing patches for compatiblity and balance, etc.
+	that not many of them would fit well on top of MHM.
+
 	It's really a testament to how thorough in scope the full MHM suite is.
 
 
-Recommended:
+============================
+02 - About Adding Other Mods
+============================
+	This information was presented in part 3, but bears repeating here.
 
+	IMPORTANT - Be cautious of adding mods on top of big overhauls like MHM:
+	  * Adding mods that are not officially recommended are quite likely to cause issues.
+	  * Adding mods that are not officially recommended are not guaranteed to be supported in the forum.
+	  * Other mods will most likely require some kind of compatiblity patch.
+	  * Check mod description for compatibility notes.
+	  * Look for compatibility patches in the MHM AIO or MHM Core to see if they exist.
+	  * Look for compatibility patches on mod download page, or inside downloaded archives.
+	  * Check what files the mod changes to see if it is compatible.
+	  * Backup your saves. If you had stuff to your game mid-playthrough, and it turns out to be causing issues,
+	    then removing it can bork your savegame.
+
+
+================
+02 - Recommended
+================
 	Flashlight Customizer﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/221
 		I hate the default flashlight. I had a $5 torch from a supermarket when I was a kid that worked better.
@@ -33,7 +91,7 @@ Recommended:
 		Press "Right-Alt + L" in-game to bring up customizer menu
 		You can download some kind of preset if you wish, but I just tinker with the settings until I find what felt right for me.
 
-	STK2 - SPF
+	STK2 - SPF    <-- Only for CChromaEditorLibrary64.dll replacement
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/9
 
 		********************************************************************************************
@@ -46,14 +104,15 @@ Recommended:
 		Overwrite the original in "<gamedir>\Stalker2\Plugins\ChromaSDKPlugin\ThirdParty\Win64"
 		Make a backup of the original if you wish
 
-	Improved Saves Modular
+	Improved Saves Modular    <-- Not for Campfire Saves or Master-Mode
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1315
 		Vast improvement over the number of saves allowed, and the behaviour thereof.
-		NOT COMPATIBLE WITH MASTER MODE OR CAMPFIRE SAVES ADDON.
+		NOT COMPATIBLE WITH MASTER-MODE OR CAMPFIRE SAVES ADDON.
 
 
-Somewhat recommended - depends on personal taste:
-
+===========================================
+03 - Somewhat Recommended (User Preference)
+===========================================
 	Gun Jam Swearing
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/900
 		Compatible with everything (just replaces gun jam audio).
@@ -65,17 +124,18 @@ Somewhat recommended - depends on personal taste:
 		Copy "zzz_Skip_E01_MQ01_NoAwaken_P.pak" to "~mods"
 
 	Performance/Optimization/FPS/Anti-lag mods:
-		There are a great variety of these.
-		Depending on your hardware, some may or may not be useful.
-		Some of them change the visuals.
-		Some increase fps at the cost of lag, or vice-versa.
-		Some cause crashes and other weird shit.
-		Feel free to try them out and see what works for you.
-		I am cautious of recommending one over another, as user results may vary.
+		* There are a great variety of these.
+		* Depending on your hardware, some may or may not be useful.
+		* Some of them change the visuals.
+		* Some increase fps at the cost of lag, or vice-versa.
+		* Some cause crashes and other weird shit.
+		* Feel free to try them out and see what works for you.
+		* I am cautious of recommending one over another, as user results may vary.
 
 
-Somewhat Recommended - Nice mods that have balance and/or technical issues
-
+========================================================
+04 - Somewhat Recommended (Has Balance/Technical Issues)
+========================================================
 	ART - Artifacts Reforged and Transformed
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1071
 		Interesting looking artifacts mod.
@@ -136,14 +196,9 @@ Somewhat Recommended - Nice mods that have balance and/or technical issues
 		Enter command:  mod add /Game/Mods/StalkerId/BP_StalkerIdentification.BP_StalkerIdentification_C
 
 
-Not Recommended - Interesting mods that have compatibility and/or technical issues.
-
-	Skill Magazines
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1152
-		Cool idea.
-		Unbalanced for MHM.
-		Not compatibile (localization). No patch exists.
-
+=========================================================
+05 - Not Recommended (Has Compatibility/Technical Issues)
+=========================================================
 	Artifacts Overhaul
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/933
 		Another interesting take on artifacts.
@@ -158,7 +213,7 @@ Not Recommended - Interesting mods that have compatibility and/or technical issu
 		Not compatibile. No patch exists.
 		MHM will eventually cover artifacts anyway.
 
-	Ledge Grabbing by Kennymylenny
+	Ledge Grabbing
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/204
 		Makes puzzles too easy.
 		Breaks parkour in some areas.
@@ -171,11 +226,18 @@ Not Recommended - Interesting mods that have compatibility and/or technical issu
 		in an adjustable radius.
 		Not compatibile. No patch exists.
 
+	Skill Magazines
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1152
+		Cool idea.
+		Unbalanced for MHM.
+		Not compatibile (localization). No patch exists.
 
-Untested
+
+=============
+06 - Untested
+=============
 	These are technically compatible, but not sure how they would work overall with MHM.
-	They also require a seperate loader. Might be kinda janky. Would not recommend adding
-	to an ongoing save.
+	They also require a seperate mod loader. Might be kinda janky.
 
 	Separated helmets and armor
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1111
@@ -183,12 +245,14 @@ Untested
 
 	Extended Equipment
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1005
-		If somehow these could be moved off the head, and into armor slots, that would
-		be killer.
+		If somehow these could be moved off the head, and into armor slots, that would be killer.
 		Balanced?
 
 
-No Longer Recommended
+==========================
+07 - No Longer Recommended
+==========================
+	Don't forget to endorse if you used and enjoyed them.
 
 	MinUI Suit (MinUI, MinHUD, Clean Button Prompts):
 		The updated UI components of MHM 2.0.8 is all you need.
@@ -196,7 +260,9 @@ No Longer Recommended
 		Nice mods though. Just not needed for MHM.
 
 
-Recommended for testing purposes for mod authors / specific stuck in game issues. Very cheaty.
+================================================
+08 - For Mod Testing / Game Progress Issues Only
+================================================
 	Bolt Jump       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1283
 	Locksmith       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1291
 	Teleport        https://www.nexusmods.com/stalker2heartofchornobyl/mods/1265
