@@ -65,11 +65,13 @@ Somewhat recommended - depends on personal taste:
 		Copy "zzz_Skip_E01_MQ01_NoAwaken_P.pak" to "~mods"
 
 	Performance/Optimization/FPS/Anti-lag mods:
-		I was previously using a performance mod, but am now on the fence about it with the new 1.3 patch.
-		I am cautious of recommending one over another, as everyone has different hardware and fps vs lag preferences.
-		A lot of them change visuals too. Some cause crashing in certain areas.
+		There are a great variety of these.
+		Depending on your hardware, some may or may not be useful.
+		Some of them change the visuals.
+		Some increase fps at the cost of lag, or vice-versa.
+		Some cause crashes and other weird shit.
 		Feel free to try them out and see what works for you.
-
+		I am cautious of recommending one over another, as user results may vary.
 
 
 Somewhat Recommended - Nice mods that have balance and/or technical issues
@@ -172,7 +174,8 @@ Not Recommended - Interesting mods that have compatibility and/or technical issu
 
 Untested
 	These are technically compatible, but not sure how they would work overall with MHM.
-	They also require a seperate loader. Might be kinda janky.
+	They also require a seperate loader. Might be kinda janky. Would not recommend adding
+	to an ongoing save.
 
 	Separated helmets and armor
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1111
