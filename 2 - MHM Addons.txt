@@ -1,18 +1,30 @@
 ===== MHM Addons Setup =====
 
-CAUTION:
-	I have no official association or contact with the mod author.
-	These guides are UNOFFICIAL.
+
+========
+CONTENTS
+========
+	01 - Info
+	02 - Addons
+		* Hardcore AIO for Gamepad Users
+		* Master Mode for Hardcore AIO
+		* MHM Campfire Saves
+		* MHM Color Grading Fix
+		* Relaxed Mode for Veteran AIO
 
 
-Addons info:
+=========
+01 - Info
+=========
 	These are --optional-- addons to customise your base MHM install.
-	These are to be added on top of existing MHM setup.
+	These are to be added on top of existing MHM setup (See part 1).
 	Choose any/all/none as you see fit.
 	These files are in the "Patches and Addons" folder in the MHM AIO or MHM Core Module.
 
 
-Addons:
+===========
+02 - Addons
+===========
 	Hardcore AIO for Gamepad Users:
 		Desc:		Lowers mutant speed (easier for Gampad)
 		For:		Hardcore only. AIO only.
