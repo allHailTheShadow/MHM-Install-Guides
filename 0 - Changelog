@@ -19,3 +19,6 @@
 2025-03-27:  * Big changes to formatting, added tables of contents, more defined section headers, spelling, etc
              * Lots of changes in particular to recommended mods
              * Re-done the chart in part 4, hopefully it is more clear now
+
+2025-03-27:  * Move "Improved Saves Modular" to "Not Currently Recommended (Has Compatibility/Technical Issues)",
+               until I can sort out the issue of not being able to make new manual saves, only overwrite.
