@@ -1,26 +1,45 @@
 ===== MHM Recommended Mods =====
 
-CAUTION:
-	I have no official association or contact with the mod author.
-	These guides are UNOFFICIAL.
+
+========
+CONTENTS
+========
+	01 - Info
+	02 - A-Life
+		* Shay's Living Zone
+		* A-Life Found a Way
+	03 - AI/NPC
+		* NPC Combat Overhaul
+		* Instant Long Range Aggression Fix
+		* Stop NPC's X Ray Vision and Other Tweaks
+		* S.T.F.U. - Shut Those Factions Up!
+	04 - User Interface
+		* Large Loot Inventory
+		* Lore Friendly Ammo Boxes
+	05 - Immersion
+		* Mutant Physics and Audio
+		* Immersive Music Ambience
+		* Dynamic Weather Overhaul
+		* Feliche's Real Longer Days
+		* Feliche's Weapon Position
+	06 - Other
+		* Painter of the Zone - Blood Wallmarks
+		* Painter of the Zone - Bloody Wounds
+		* Svarog Detector
+	07 - Adding Other Mods
 
 
-Recommended mods info:
+=========
+01 - Info
+=========
 	These are mods that are recommended by the MHM author to supplement the MHM setup.
 	Read the Mod Description page before deciding to use any.
 	Use any/all/none as you see fit.
 
 
-IMPORTANT:
-	Be cautious of adding mods on top of big overhauls like this one.
-
-	Unless there are compatibility patches made by the mod authors, or you know for sure that
-	they aren't editing the same files, then you are likely to have issues.
-
-	Unsupported mods are a major source of most of the problems users encounter with MHM.
-
-
-ALIFE
+===========
+02 - A-Life
+===========
 	Use "Shay's Living Zone" --OR-- "A-Life uh... Found a Way", but not both
 
 	Shay's Living Zone:
@@ -28,7 +47,7 @@ ALIFE
 		Download "V3 - SLZ - Alternative Main Mods Collection" main file (only)
 		Copy "zzzz_am3_SLZxMHM_v1.2.1_P.pak" to "~mods"
 
-	A-Life uh... Found a Way﻿
+	A-Life Found a Way﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1122
 		REQIRES "Stop NPCs X-Ray Vision and Other Collision Tweaks"
 		Download "ALife_Found_A_Way" main file
@@ -37,7 +56,9 @@ ALIFE
 		    If using Master Mode addon: Copy "zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak" to "~mods"
 		    Otherwise:                  Copy "zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak" to "~mods"
 
-﻿AI / NPC
+=============
+﻿03 - AI / NPC
+=============
 	NPC Combat Overhaul
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/635
 		Download the "zzzzzz_NPCCombatOverhaul" main file.
@@ -53,7 +74,7 @@ ALIFE
 			zzzzzzz_RadioInterference
 		Copy the pak file from each of the downloads to "~mods"
 
-	Stop NPC's X Ray Vision and other tweaks﻿
+	Stop NPC's X Ray Vision and Other Tweaks﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1001
 		Download "Recommended_Engine_ini_Additions"
 
@@ -67,12 +88,15 @@ ALIFE
 
 		Optional: --APPEND-- the contents of the "Optional Performance\engine.ini" to your "engine.ini" located above.
 
-	S.T.F.U: Shut those factions up!
+	S.T.F.U. - Shut Those Factions Up!
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1056
 		Download "S.T.F.U." main file
 		Copy "S_T_F_U.pak" to "~mods"
 
-USER INTERFACE
+
+===================
+04 - USER INTERFACE
+===================
 	Large Loot Inventory﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/515
 		Download "LargeLootBox" main file.
@@ -83,7 +107,10 @@ USER INTERFACE
 		Download "Ammo Plus" main file.
 		Copy the three "AmmoBoxesPlus_P*" files to "~mods"
 
-﻿OTHER/IMMERSION
+
+==============
+﻿05 - IMMERSION
+==============
 	Mutant Physics and Audio﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1117
 		Download "MutantPhysicsFix" main file.
@@ -114,8 +141,12 @@ USER INTERFACE
 		Download "Weapon Position" main file.
 		Copy the three "Feliche_Weapon_Fov_P.*" files to "~mods".
 
-﻿OTHER 
-	I don't know if these are recommended by the MHM author, per se, but there are compatibility patches available for these mods
+
+==========
+06 - Other
+==========
+﻿	I don't know if these are recommended by the MHM author, per se, but there are compatibility patches available for these mods
+	available within the MHM AIO and MHM Core Module, so they will be covered here.
 
 	Painter of the Zone - Blood Wallmarks
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/99
@@ -141,3 +172,21 @@ USER INTERFACE
 		Copy the three "Svarog_Detector_Textures_P*" to "~mods"
 		DON'T copy the "Svarog_Detector_P.pak".
 		Copy the file from "MHM\Patches and Addons\Patch: Svarog Detector" to "~mods"
+
+
+======================
+07 - Adding Other Mods
+======================
+	At this stage you now have a completed MHM installation.
+	This will briefly cover adding other mods to MHM.
+
+	IMPORTANT - Be cautious of adding mods on top of big overhauls like this one:
+	  * Adding mods that are not officially recommended are quite likely to cause issues.
+	  * Adding mods that are not officially recommended are not guaranteed to be supported in the forum.
+	  * Other mods will most likely require some kind of compatiblity patch.
+
+	IMPORTANT - When adding other mods:
+	  * Check mod description for compatibility notes.
+	  * Look for compatibility patches in the MHM AIO or MHM Core to see if they exist.
+	  * Look for compatibility patches on mod download page, or inside downloaded archives.
+	  * Check what files the mod changes to see if it is compatible.
