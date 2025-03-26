@@ -9,7 +9,6 @@ CONTENTS
 	03 - Recommended
 		* Flashlight Customizer﻿
 		* STK2 - SPF                <-- Only for CChromaEditorLibrary64.dll replacement.
-		* Improved Saves Modular    <-- Not for Campfire Saves or Master-Mode
 	04 - Somewhat Recommended (User Preference)
 		* Gun Jam Swearing
 		* Performance/Optimization/FPS/Anti-lag/...
@@ -25,6 +24,7 @@ CONTENTS
 	06 - Not Currently Recommended (Has Compatibility/Technical Issues)
 		* Artifacts Overhaul		
 		* Elemental Artifacts
+		* Improved Saves Modular
 		* Ledge Grabbing
 		* NPCS cant THROW
 		* Skill Magazines
@@ -103,11 +103,6 @@ CONTENTS
 		Get the dummy "CChromaEditorLibrary64.dll" file (only) from the "STK2 - SPF" main file
 		Overwrite the original in "<gamedir>\Stalker2\Plugins\ChromaSDKPlugin\ThirdParty\Win64"
 		Make a backup of the original if you wish
-
-	Improved Saves Modular    <-- Not for Campfire Saves or Master-Mode
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1315
-		Vast improvement over the number of saves allowed, and the behaviour thereof.
-		NOT COMPATIBLE WITH MASTER-MODE OR CAMPFIRE SAVES ADDON.
 
 
 ===========================================
@@ -212,6 +207,18 @@ CONTENTS
 		Unbalanced for MHM.
 		Not compatibile. No patch exists.
 		MHM will eventually cover artifacts anyway.
+
+	Improved Saves Modular    <-- Not for Campfire Saves or Master-Mode
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1315
+		Vast improvement over the number of saves allowed, and the behaviour thereof.
+		NOT COMPATIBLE WITH MASTER-MODE OR CAMPFIRE SAVES ADDON.
+
+		NO LONGER RECOMMENDED:
+			Was previously recommended, but until I sort out the issues, it is down here.
+			Unable to make new manual saves, only overwrite old ones.
+			Should be compatible.
+			Have contacted author.
+			Update pending.
 
 	Ledge Grabbing
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/204
