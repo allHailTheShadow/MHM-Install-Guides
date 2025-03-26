@@ -177,16 +177,15 @@ CONTENTS
 ======================
 07 - Adding Other Mods
 ======================
-	At this stage you now have a completed MHM installation.
-	This will briefly cover adding other mods to MHM.
+	At this stage you now have a completed MHM installation. This will briefly cover adding other mods to MHM.
 
-	IMPORTANT - Be cautious of adding mods on top of big overhauls like this one:
+	IMPORTANT - Be cautious of adding mods on top of big overhauls like MHM:
 	  * Adding mods that are not officially recommended are quite likely to cause issues.
 	  * Adding mods that are not officially recommended are not guaranteed to be supported in the forum.
 	  * Other mods will most likely require some kind of compatiblity patch.
-
-	IMPORTANT - When adding other mods:
 	  * Check mod description for compatibility notes.
 	  * Look for compatibility patches in the MHM AIO or MHM Core to see if they exist.
 	  * Look for compatibility patches on mod download page, or inside downloaded archives.
 	  * Check what files the mod changes to see if it is compatible.
+	  * Backup your saves. If you had stuff to your game mid-playthrough, and it turns out to be causing issues,
+	    then removing it can bork your savegame.
