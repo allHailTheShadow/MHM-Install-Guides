@@ -91,6 +91,11 @@ CONTENTS
 		Press "Right-Alt + L" in-game to bring up customizer menu
 		You can download some kind of preset if you wish, but I just tinker with the settings until I find what felt right for me.
 
+	Improved Saves Modular    <-- Not for Campfire Saves or Master-Mode
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1315
+		Vast improvement over the number of saves allowed, and the behaviour thereof.
+		NOT COMPATIBLE WITH MASTER-MODE OR CAMPFIRE SAVES ADDON.
+
 	STK2 - SPF    <-- Only for CChromaEditorLibrary64.dll replacement
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/9
 
@@ -207,18 +212,6 @@ CONTENTS
 		Unbalanced for MHM.
 		Not compatibile. No patch exists.
 		MHM will eventually cover artifacts anyway.
-
-	Improved Saves Modular    <-- Not for Campfire Saves or Master-Mode
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1315
-		Vast improvement over the number of saves allowed, and the behaviour thereof.
-		NOT COMPATIBLE WITH MASTER-MODE OR CAMPFIRE SAVES ADDON.
-
-		NO LONGER RECOMMENDED:
-			Was previously recommended, but until I sort out the issues, it is down here.
-			Unable to make new manual saves, only overwrite old ones.
-			Should be compatible.
-			Have contacted author.
-			Update pending.
 
 	Ledge Grabbing
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/204
