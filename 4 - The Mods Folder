@@ -1,99 +1,105 @@
 ===== Your "~mods" Folder =====
 
-CAUTION:
-	I have no official association or contact with the mod author.
-	These guides are UNOFFICIAL.
+
+========
+CONTENTS
+========
+	01 - Info
+	02 - Main Source of Issues
+	03 - Basic MHM Install
+	04 - Extended MHM Install
 
 
-Notes:
-    * This file contains information about what should and can be in your "/mods" folder.
-    * Files in your mods folder that are not listed here are likely to cause issues, unless you know exactly what you are doing.
-    * Use this to eliminate potential issues with your setup.
-    * If file listing ends with (pak,ucas,utoc) that means you need all three of the files.
-    * At this stage, this is based on the AIO version of MHM (not individual modules version), but is still largely applicable (TODO)
+=========
+01 - Info
+=========
+	* The following sections will cover what should be, and what may be, in your "~mods" folder.
+	* Things that are not listed are likely to be the culprit for your issues.
+	* At this stage, this is based on the AIO version of MHM (not individual modules version), but is still largely applicable (TODO)
+	* This only covers MHM, its addons, and its officially recommended mods
 
 
-====================================================================
-For a standard MHM AIO setup, without additional mods/addons/patches
-====================================================================
-	 your "~mods" folder should contain ~ONLY~ the following:
-		LNA01_99_P.pak
-		LocalizationDB_P.(pak,ucas,utoc)	<-- (from MHM_AIO, not from any other mod)
-		zzzzzzz_MHMTextures0z_P.(pak,ucas,utoc)
-		zzzzzzz_MHM_Interface0z_P.(pak,ucas,utoc)
-		OXA0X.(pak,ucas,utoc)
-		OXA01_P.(pak,ucas,utoc)
-		OXA02_P.(pak,ucas,utoc)
-		Simple_ModLoader.(pak,ucas,utoc)
-		Simple_ModLoader_0_P.pak
-		zz_FactionsPatch_Textures_P.(pak,ucas,utoc)
-		ZZ_Mutant_Loot_Textures_P.(pak,ucas,utoc)
-		ZZZ_ProjectItemization-Textures_P.(pak,ucas,utoc)
-		zzzzzzz_MHM_2.0_AIO_Full_Standard.pak    --OR--    zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak
+==========================
+02 - Main Source of Issues
+==========================
+	* Make double sure that you have ~NOT~ installed any of LNA file other than "LNA01_99_P.pak"
+	* Make double sure that you have ~NOT~ installed "OXA03_P.pak" from OXA
+	* Mods that are not recommended by the author of MHM
 
 
-==============================================================
-For a MHM install that includes additional mods/patches/addons
-==============================================================
-Consult the chart at the end to find out what's missing, or what should not be there.
+======================
+03 - Basic MHM Install
+======================
+	For a standard MHM AIO setup, without any of the official addons, or recommended mods, your "~mods" folder should contain --ONLY-- the following:
 
-  * If you have files in your "~mods" folder that are not in this list, make sure you know what mod they come from.
-  * And also make sure you read the respective page for the mod to ensure that it is compatible with MHM.
-  * In all likelyhood, you will need a compatability patch for additional mods.
-  * Look for compatability patches in MHM AIO or Core Archives, as optional files on mod download pages, or inside downloaded mod archives.
+		LNA01_99_P				(pak)
+		LocalizationDB_P			(pak,ucas,utoc)		    (from MHM_AIO, not from any other mod)
+		zzzzzzz_MHMTextures0z_P			(pak,ucas,utoc)
+		zzzzzzz_MHM_Interface0z_P		(pak,ucas,utoc)
+		OXA0X					(pak,ucas,utoc)
+		OXA01_P					(pak,ucas,utoc)
+		OXA02_P					(pak,ucas,utoc)
+		Simple_ModLoader			(pak,ucas,utoc)
+		Simple_ModLoader_0_P			(pak)
+		zz_FactionsPatch_Textures_P		(pak,ucas,utoc)
+		ZZ_Mutant_Loot_Textures_P		(pak,ucas,utoc)
+		ZZZ_ProjectItemization-Textures_P	(pak,ucas,utoc)
+		
+		zzzzzzz_MHM_2.0_AIO_Full_Standard	(pak)
+			--OR--
+		zzzzzzz_MHM_2.0_AIO_Full_Hardcore	(pak)
 
 
-=====================
-MAIN SOURCE OF ISSUES
-=====================
-Make double sure that you have ~NOT~ installed any of LNA file other than "LNA01_99_P.pak"
-Make double sure that you have ~NOT~ installed "OXA03_P.pak" from OXA
+=========================
+04 - Extended MHM Install
+=========================
+	For a MHM install that includes additional mods/patches/addons, consult the chart to find out what's missing, or what should not be there.
 
 
-=============================================================================================================================================================================================================================================================================================================
-Filename                                                         Source                               Required/Recommended/Optional for...                     Notes
-=============================================================================================================================================================================================================================================================================================================
-AmmoBoxesPlus_P.(pak,ucas,utoc)                                  Lore Friendly Ammo Boxes             Required if using "Lore Friendly Ammo Boxes"
-DWO_BaseWeathers_P.(pak,ucas,utoc)                               Dynamic Weather Overhaul             Recommended if using "Dynamic Weather Overhaul"          Recommended to also use "Feliche's Longer Days"
-DWO_Emissions_P.(pak,ucas,utoc)                                  Dynamic Weather Overhaul             Optional if using "Dynamic Weather Overhaul"             Recommended to also use "Feliche's Longer Days"
-DWO_Weathers_P.(pak,ucas,utoc)                                   Dynamic Weather Overhaul             Required if using "Dynamic Weather Overhaul"             Recommended to also use "Feliche's Longer Days"
-Feliche_Real_LongerDays_P.(pak,ucas,utoc)                        Feliche's Real Longer Days           Required if using "Feliche's Longer Days"                Recommended if using "Dynamic Weather Overhaul"
-Feliche_Weapon_Fov_P.(pak,ucas,utoc)                             Feliche's Weapon Reposition          Required if using "Feliche's Weapon Reposition"
-Immersive Music Ambience.pak                                     Immersive Music Ambience             Required if using "Immersive Music Ambience"
-LargeLootBox_P.(pak,ucas,utoc)                                   Large Loot Inventory                 Required if using "Large Loot Inventory"
-LNA01_99_P.pak                                                   LNA                                  !!REQUIRED!!
-LocalizationDB_P.(pak,ucas,utoc)                                 MHM AIO                              !!REQUIRED!!
-OXA0X.(pak,ucas,utoc)                                            OXA                                  !!REQUIRED!!
-OXA01_P.(pak,ucas,utoc)                                          OXA                                  !!REQUIRED!!
-OXA02_P.(pak,ucas,utoc)                                          OXA                                  !!REQUIRED!!
-S_T_F_U.pak                                                      S.T.F.U.                             Required if using "S.T.F.U."
-Simple_ModLoader.(pak,ucas,utoc)                                 Simple Mod Loader                    !!REQUIRED!!                                             Can instead be in "\Paks" instead of "\Paks\~mods"
-Simple_ModLoader_0_P.pak                                         Simple Mod Loader                    !!REQUIRED!!                                             Can instead be in "\Paks" instead of "\Paks\~mods"
-Svarog_Detector_Textures_P.(pak,ucas,utoc)                       Svarog Detector                      Required if using "Svarog Detector"                      Also needs the patch: "zzzzzzz_MHM_Svarog_Detector_Patch_P.pak"
-Vanilla_AIGlobals_XRay_Fix_P.pak                                 Stop NPCs X-Ray Vision               Required if using "Stop NPCs X-Ray Vision"               Don't use with "A-Life Found a Way". Make sure to update "engine.ini".
-zz_DWO_WeatherPatterns_P.pak                                     Dynamic Weather Overhaul             Required if using "Dynamic Weather Overhaul"             Recommended to also use "Feliche's Longer Days"
-zz_FactionsPatch_Textures_P.(pak,ucas,utoc)                      Faction Patches                      !!REQUIRED!!
-ZZ_Mutant_Loot_Textures_P.(pak,ucas,utoc)                        Mutant Loot                          !!REQUIRED!!
-zz_PoZ_Blood_P.(pak,ucas,utoc)                                   PotZ - Better Blood Wallmarks        Required if using "PotZ - Better Blood Wallmarks"        Also needs the patch: "zzzzzzzzzzz_MHM_PoZBloodConfigPatch_P.pak"
-zz_PoZWounds_P.(pak,ucas,utoc)                                   PotZ - Bloody Wounds                 Required if using "PotZ - Bloody Wounds"
-ZZZ_ProjectItemization-Textures_P.(pak,ucas,utoc)                Project Itemization                  !!REQUIRED!!
-zzzz_am3_SLZxMHM_v1.2.1_P.pak                                    Shay's Living Zone                   Required if using "Shay's Living Zone"                   Don't use with "A-Life Found a Way". Timescale mods discouraged by Shay for use with this.
-zzzzzz_MutantPhysicsFix.pak                                      Mutant Physics and Audio Fix         Required if using "Mutant Physics and Audio Fix"
-zzzzzz_NoSuperHearing_P.pak                                      Instant Long Range Aggression Fix    Required if using "Instant Long Range Aggression Fix"
-zzzzzz_NoSuperVisionEither_P.pak                                 Instant Long Range Aggression Fix    Required if using "Instant Long Range Aggression Fix"
-zzzzzz_NPCCombatOverhaul_P.pak                                   NPC Combat Overhaul                  Required if using "NPC Combat Overhaul"
-zzzzzz_ThreatNeededBalance_P.pak                                 Instant Long Range Aggression Fix    Required if using "Instant Long Range Aggression Fix"
-zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak                            MHM AIO                              !!REQUIRED!! (for Hardcore)                              Don't use both Hardcore and Standard
-zzzzzzz_MHM_2.0_AIO_Full_Standard.pak                            MHM AIO                              !!REQUIRED!! (for Standard)                              Don't use both Hardcore and Standard
-zzzzzzz_MHM_Interface0z_P.(pak,ucas,utoc)                        MHM AIO                              !!REQUIRED!!
-zzzzzzz_MHM_Svarog_Detector_Patch_P.pak                          MHM AIO                              Required if using "Svarog Detector"                      Needs the 3 texture files from original mod: "Svarog_Detector_Textures_P*."
-zzzzzzz_MHMTextures0z_P.(pak,ucas,utoc)                          MHM AIO                              !!REQUIRED!!
-zzzzzzz_RadioInterference_P.pak                                  Instant Long Range Aggression Fix    Optional if using "Instant Long Range Aggression Fix"
-zzzzzzzz_ALife_Found_A_Way_P.pak                                 A-Life Found a Way                   Required for "A-Life Found a Way"                        Also needs the patch: "zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak" __OR__ "zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak". Don't use with Shay's Living Zone.
-zzzzzzzzzzz_MHM_PoZBloodConfigPatch_P.pak                        MHM AIO                              Required for "PotZ - Better Blood Wallmarks"             Needs the 3 texture files from original mod: "zz_PoZ_Blood_P*."
-zzzzzzzzzzzz_MHM_2.0_AIO_Hardcore_Gamepad_Friendly_Patch_P.pak   MHM AIO                              Optional                                                 For Hardcore only
-zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak              MHM AIO                              Optional                                                 For Standard only
-zzzzzzzzzzzz_MHM_CampfireSaves.pak                               MHM AIO                              Optional                                                 Don't use with Master Mode
-zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak                   MHM AIO                              Required for "A-Life Found a Way" (only one)             Don't use with Master Mode. Needs original mod file: "zzzzzzzz_ALife_Found_A_Way_P.pak". Don't use with Shay's Living Zone.
-zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak                     MHM AIO                              Optional                                                 For Hardcore only
-zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak    MHM AIO                              Required for "A-Life Found a Way" (only one)             Master Mode only. Needs original mod file: "zzzzzzzz_ALife_Found_A_Way_P.pak". Don't use with Shay's Living Zone.
+==================================================================================================================================================================================================================================================================================================================================================================
+File Basename                                                 Extension/s        Required/Recommended/Optional    For                                     From (If different)    Notes
+==================================================================================================================================================================================================================================================================================================================================================================
+AmmoBoxesPlus_P                                               (pak,ucas,utoc)    Required                         Lore Friendly Ammo Boxes                -
+DWO_BaseWeathers_P                                            (pak,ucas,utoc)    Recommended                      Dynamic Weather Overhaul                -                      Recommended to also use "Feliche's Longer Days"
+DWO_Emissions_P                                               (pak,ucas,utoc)    Optional                         Dynamic Weather Overhaul                -                      Recommended to also use "Feliche's Longer Days"
+DWO_Weathers_P                                                (pak,ucas,utoc)    Required                         Dynamic Weather Overhaul                -                      Recommended to also use "Feliche's Longer Days"
+Feliche_Real_LongerDays_P                                     (pak,ucas,utoc)    Required                         Feliche's Longer Days                   -                      Recommended if using "Dynamic Weather Overhaul"
+Feliche_Weapon_Fov_P                                          (pak,ucas,utoc)    Required                         Feliche's Weapon Reposition             -
+Immersive Music Ambience                                      (pak)              Required                         Immersive Music Ambience                -
+LargeLootBox_P                                                (pak,ucas,utoc)    Required                         Large Loot Inventory                    -
+LNA01_99_P                                                    (pak)              !!REQUIRED!!                     MHM                                     LNA
+LocalizationDB_P                                              (pak,ucas,utoc)    !!REQUIRED!!                     MHM                                     -
+OXA0X                                                         (pak,ucas,utoc)    !!REQUIRED!!                     MHM                                     OXA
+OXA01_P                                                       (pak,ucas,utoc)    !!REQUIRED!!                     MHM                                     OXA
+OXA02_P                                                       (pak,ucas,utoc)    !!REQUIRED!!                     MHM                                     OXA
+S_T_F_U                                                       (pak)              Required                         S.T.F.U.                                -
+Simple_ModLoader                                              (pak,ucas,utoc)    !!REQUIRED!!                     MHM                                     Simple Mod Loader      Can instead be in "\Paks" instead of "\Paks\~mods"
+Simple_ModLoader_0_P                                          (pak)              !!REQUIRED!!                     MHM                                     Simple Mod Loader      Can instead be in "\Paks" instead of "\Paks\~mods"
+Svarog_Detector_Textures_P                                    (pak,ucas,utoc)    Required                         Svarog Detector                         -                      Also needs the patch: "zzzzzzz_MHM_Svarog_Detector_Patch_P.pak"
+Vanilla_AIGlobals_XRay_Fix_P                                  (pak)              Required                         Stop NPCs X-Ray Vision                  -                      Don't use with AIO or "A-Life Found a Way". Make sure to update "engine.ini".
+zz_DWO_WeatherPatterns_P                                      (pak)              Required                         Dynamic Weather Overhaul                -                      Recommended to also use "Feliche's Longer Days"
+zz_FactionsPatch_Textures_P                                   (pak,ucas,utoc)    !!REQUIRED!!                     MHM                                     Faction Patches
+ZZ_Mutant_Loot_Textures_P                                     (pak,ucas,utoc)    !!REQUIRED!!                     MHM                                     Mutant Loot
+zz_PoZ_Blood_P                                                (pak,ucas,utoc)    Required                         PotZ - Better Blood Wallmarks           -                      Also needs the patch: "zzzzzzzzzzz_MHM_PoZBloodConfigPatch_P.pak"
+zz_PoZWounds_P                                                (pak,ucas,utoc)    Required                         PotZ - Bloody Wounds                    -
+ZZZ_ProjectItemization-Textures_P                             (pak,ucas,utoc)    !!REQUIRED!!                     MHM                                     Project Itemization
+zzzz_am3_SLZxMHM_v1.2.1_P                                     (pak)              Required                         Shay's Living Zone                      -                      Don't use with "A-Life Found a Way". Timescale mods discouraged by Shay for use with this.
+zzzzzz_MutantPhysicsFix                                       (pak)              Required                         Mutant Physics and Audio Fix            -
+zzzzzz_NoSuperHearing_P                                       (pak)              Required                         Instant Long Range Aggression Fix       -
+zzzzzz_NoSuperVisionEither_P                                  (pak)              Required                         Instant Long Range Aggression Fix       -
+zzzzzz_NPCCombatOverhaul_P                                    (pak)              Required                         NPC Combat Overhaul                     -
+zzzzzz_ThreatNeededBalance_P                                  (pak)              Required                         Instant Long Range Aggression Fix       -
+zzzzzzz_MHM_2.0_AIO_Full_Hardcore                             (pak)              !!REQUIRED!! (for Hardcore)      MHM                                     -                      Don't use both Hardcore and Standard
+zzzzzzz_MHM_2.0_AIO_Full_Standard                             (pak)              !!REQUIRED!! (for Standard)      MHM                                     -                      Don't use both Hardcore and Standard
+zzzzzzz_MHM_Interface0z_P                                     (pak,ucas,utoc)    !!REQUIRED!!                     MHM                                     -
+zzzzzzz_MHM_Svarog_Detector_Patch_P                           (pak)              Required                         Svarog Detector                         MHM Patches            Needs the 3 texture files from original mod: "Svarog_Detector_Textures_P*."
+zzzzzzz_MHMTextures0z_P                                       (pak,ucas,utoc)    !!REQUIRED!!                     MHM                                     -
+zzzzzzz_RadioInterference_P                                   (pak)              Optional                         Instant Long Range Aggression Fix       -
+zzzzzzzz_ALife_Found_A_Way_P                                  (pak)              Required                         A-Life Found a Way                      -                      Also needs the patch: "zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak" __OR__ "zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak". Don't use with Shay's Living Zone.
+zzzzzzzzzzz_MHM_PoZBloodConfigPatch_P                         (pak)              Required                         PotZ - Better Blood Wallmarks           MHM Patches            Needs the 3 texture files from original mod: "zz_PoZ_Blood_P*."
+zzzzzzzzzzzz_MHM_2.0_AIO_Hardcore_Gamepad_Friendly_Patch_P    (pak)              Optional                         MHM (Hardcore only)                     MHM Addons
+zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P               (pak)              Optional                         MHM (Standard only)                     MHM Addons
+zzzzzzzzzzzz_MHM_CampfireSaves                                (pak)              Optional                         MHM (Non Master-Mode)                   MHM Addons             Don't use with Master-Mode
+zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P                    (pak)              Required                         A-Life Found a Way (Non Master-Mode)    MHM Patches            Don't use with Master-Mode. Needs original mod file: "zzzzzzzz_ALife_Found_A_Way_P.pak". Don't use with Shay's Living Zone.
+zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P                      (pak)              Optional                         MHM (Hardcore)                          MHM Addons
+zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P     (pak)              Required                         A-Life Found a Way (Master-Mode)        MHM Patches            Master-Mode only. Needs original mod file: "zzzzzzzz_ALife_Found_A_Way_P.pak". Don't use with Shay's Living Zone.
