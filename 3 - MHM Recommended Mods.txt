@@ -109,6 +109,11 @@ USER INTERFACE
 		READ the mod page. You will need to pick a ratio, and a time stretch.
 		Once you have done this copy the three "Feliche_Real_LongerDays_P*" files from your folder choices to "~mods"
 
+	Feliche's Weapon Position
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1312
+		Download "Weapon Position" main file.
+		Copy the three "Feliche_Weapon_Fov_P.*" files to "~mods".
+
 ﻿OTHER 
 	I don't know if these are recommended by the MHM author, per se, but there are compatibility patches available for these mods
 
