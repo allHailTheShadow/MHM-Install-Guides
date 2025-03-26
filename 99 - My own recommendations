@@ -49,6 +49,11 @@ Recommended:
 
 Somewhat recommended - depends on personal taste:
 
+	Gun Jam Swearing
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/900
+		Compatible with everything (just replaces gun jam audio).
+		Ukrainian voice only.
+
 	Skip Prologue (wake up with Richter)
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/981
 		If you have seen/played the intro one too many times...
@@ -60,20 +65,16 @@ Somewhat recommended - depends on personal taste:
 		A lot of them change visuals too. Some cause crashing in certain areas.
 		Feel free to try them out and see what works for you.
 
-	Gun Jam Swearing
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/900
-		Compatible with everything (just replaces gun jam audio).
-		Ukrainian voice only.
+
 
 Somewhat Recommended - Nice mods that have balance and/or technical issues
 
-	Stalker Faction ID
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/665
-		Hopefully updated soon, it does have some issues getting the IDs right
-		Download the "Pamplemousse_StalkerId" main file.
-		Copy the three "Pamplemousse_StalkerId*" files to "~mods"
-		Open console with '~' key ingame
-		Enter command:  mod add /Game/Mods/StalkerId/BP_StalkerIdentification.BP_StalkerIdentification_C
+	ART - Artifacts Reforged and Transformed
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1071
+		Interesting looking artifacts mod.
+		Has a compatibility patch for MHM (might be outdated, check first).
+		Unbalanced for MHM.
+		MHM will eventually cover artifacts anyway.
 
 	Dodge
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1243
@@ -103,7 +104,7 @@ Somewhat Recommended - Nice mods that have balance and/or technical issues
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1211?tab=files
 		Amazing work without the official SDK.
 		If you have finished the game and want a freeplay mod, this is what you are looking for.
-		Have to customize install for each type of start - no ingame selector (yet)
+		Have to customize install for each type of start - no ingame selector (yet).
 		Might need updated compatibility patch
 			- Current patch only for 2.0.5 (current MHM version 2.0.8)
 			- Might be fine anyway 
@@ -119,12 +120,13 @@ Somewhat Recommended - Nice mods that have balance and/or technical issues
 		No more "talk to the boss".
 		Not compatible with the S.T.F.U. mod.
 
-	ART - Artifacts Reforged and Transformed
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1071
-		Interesting looking artifacts mod.
-		Has a compatibility patch for MHM (might be outdated, check first).
-		Unbalanced for MHM.
-		MHM will eventually cover artifacts anyway.
+	Stalker Faction ID
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/665
+		Hopefully updated soon, it does have some issues getting the IDs right
+		Download the "Pamplemousse_StalkerId" main file.
+		Copy the three "Pamplemousse_StalkerId*" files to "~mods"
+		Open console with '~' key ingame
+		Enter command:  mod add /Game/Mods/StalkerId/BP_StalkerIdentification.BP_StalkerIdentification_C
 
 
 Not Recommended - Interesting mods that have compatibility and/or technical issues.
