@@ -1,46 +1,68 @@
 ===== MHM AIO Base Setup =====
 
-CAUTION:
-	I have no official association or contact with the mod author.
-	These guides are UNOFFICIAL.
+
+========
+CONTENTS
+========
+	01 - Info
+	02 - First Step
+	03 - MHM AIO, Part A
+	04 - MHM AIO, Part B
+	05 - Required Mods
+	06 - Mods Folder Contents
+	07 - Final Steps
 
 
-Base setup info:
-	This is my attempt to get users up and going with a baseline install of MHM AIO.
+=========
+01 - Info
+=========
+	This get you up and going with a baseline install of MHM AIO.
 	Vortex is not recommended.
 	Go slowly, take your time, don't rush it, or do it if you are tired or frustrated.
 	Don't worry about adding other mods yet, until you can get the base setup up and going.
-	Use a new save.
-	Create "~mods" folder in "S.T.A.L.K.E.R. 2 Heart of Chornobyl\Stalker2\Content\Paks" if it doesn't already exist.
+	Use a new game - don't add this to an existing save.
+
+
+===============
+02 - First Step
+===============
+	Create "~mods" folder in "<Your Stalker 2 Game Dir>\Stalker2\Content\Paks" if it doesn't already exist.
 	If it does exist, delete anything in there, and start fresh.
 
 
-MHM AIO Part A:
-	Download the "A - Modular Hard Mode - AIO" main file
-	
-	Copy the three "zzzzzzz_MHMTextures0z_P*" files to "~mods" folder
-	Copy the three "zzzzzzz_MHM_Interface0z_P*" files to "~mods" folder
-	Copy the three "LocalizationDB*" files from "Localization\Real Weapon Names Global" to "~mods" folder
+====================
+03 - MHM AIO, Part A
+====================
+	Download the "A - Modular Hard Mode - AIO" main file and:
+		Copy the three "zzzzzzz_MHMTextures0z_P*" files to "~mods" folder
+		Copy the three "zzzzzzz_MHM_Interface0z_P*" files to "~mods" folder
+		Copy the three "LocalizationDB*" files from "Localization\Real Weapon Names Global" to "~mods" folder
 
-	Choose either:
+	Choose one of Hardcore or Standard (not both, not neither)
 		Hardcore: From "A. Hardcore AIO" copy "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak" to "~mods"
-		--OR--
 		Standard: From "B. Standard AIO" copy "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" to "~mods"
 
 	For a basic setup, you won't need any of the files in "Patches & addons" (these are covered in parts 2 and 3)
 
 	Note: You should now have 10 files in "~mods" folder
 
-MHM AIO Part B:
-	Download the "B - AIO Part II - Additional Resources" main file
 
-	Note: you may wish to backup the existing files in this directory first
+====================
+04 - MHM AIO, Part B
+====================
+	Note: you may wish to backup the existing files first
+	
+	Download the "B - AIO Part II - Additional Resources" main file
 	Copy the files to "<YOUR GAME DIR>\Stalker2\Content\Movies\MainMenuVideo" and overwrite the existing files.
 
 
-Required Mods:
+==================
+05 - Required Mods
+==================
+	These are all required. Follow instructions carefully.
+
 	Faction Patches
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/721?tab=files
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/721
 		Download the "FactionPatch" main file
 		Copy the three "zz_FactionsPatch_Textures*" files to "~mods"
 
@@ -57,11 +79,11 @@ Required Mods:
 		Copy the three "ZZ_Mutant_Loot_Textures_P*" files to "~mods"
 
 	OXA:
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/939?tab=description
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/939
 		Download the "OXA - Oxide's eXpanded Armory" main file
 		Copy ~all~ files to "~mods" --EXCEPT-- the three localization files and OXA03_P.pak
 		
-		IMPORTANT: Do NOT install OXA03_P.pak
+		IMPORTANT: Do NOT install OXA03_P.pak.
 
 	Project Itemization:
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/445
@@ -69,7 +91,7 @@ Required Mods:
 		Copy the three "ZZZ_ProjectItemization-Textures_P*" files to "~mods"
 
 	Simple Mod Loader:
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/304?tab=files
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/304
 		Download the "SimpleModLoader" main file
 		Copy all four files from "Stalker2\Content\Paks" to "~mods"
 		Mod installation instructions specify to place it in "\Paks", rather than "\Paks\~mods"
@@ -77,8 +99,11 @@ Required Mods:
 		If you need to load a mod with "mod add /Game/Mods/~~whatever~~/ModActor.ModActor_C" and it doesn't work, you could try moving SMM to "\Paks".
 
 
-Your mods folder:
+=========================
+06 - Mods Folder Contents
+=========================
 	For a standard MHM AIO setup, without additional mods/addons/patches your "~mods" folder should contain ~ONLY~ the following:
+
 		LNA01_99_P.pak
 		LocalizationDB_P.pak     (from MHM_AIO, not from any other mod)
 		LocalizationDB_P.ucas    (from MHM_AIO, not from any other mod)
@@ -114,11 +139,10 @@ Your mods folder:
 		zzzzzzz_MHM_2.0_AIO_Full_Standard.pak    --OR--    zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak
 
 
-IMPORTANT
+================
+07 - Final Steps
+================
 	Make double sure that you have ~NOT~ installed any of LNA file other than "LNA01_99_P.pak"
 	Make double sure that you have ~NOT~ installed "OXA03_P.pak" from OXA
-
-
-Final Step:
 	Press tilde(~) ingame and enter the command "mod add /Game/Mods/OXA0X/ModActor.ModActor_C" without the quotes
 	Above command only needed if updating MHM setup. Shouldn't be needed for new save (but it won't hurt either)
