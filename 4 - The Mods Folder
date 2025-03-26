@@ -58,6 +58,7 @@ DWO_BaseWeathers_P.(pak,ucas,utoc)                               Dynamic Weather
 DWO_Emissions_P.(pak,ucas,utoc)                                  Dynamic Weather Overhaul             Optional if using "Dynamic Weather Overhaul"             Recommended to also use "Feliche's Longer Days"
 DWO_Weathers_P.(pak,ucas,utoc)                                   Dynamic Weather Overhaul             Required if using "Dynamic Weather Overhaul"             Recommended to also use "Feliche's Longer Days"
 Feliche_Real_LongerDays_P.(pak,ucas,utoc)                        Feliche's Real Longer Days           Required if using "Feliche's Longer Days"                Recommended if using "Dynamic Weather Overhaul"
+Feliche_Weapon_Fov_P.(pak,ucas,utoc)                             Feliche's Weapon Reposition          Required if using "Feliche's Weapon Reposition"
 Immersive Music Ambience.pak                                     Immersive Music Ambience             Required if using "Immersive Music Ambience"
 LargeLootBox_P.(pak,ucas,utoc)                                   Large Loot Inventory                 Required if using "Large Loot Inventory"
 LNA01_99_P.pak                                                   LNA                                  !!REQUIRED!!
@@ -76,7 +77,7 @@ ZZ_Mutant_Loot_Textures_P.(pak,ucas,utoc)                        Mutant Loot    
 zz_PoZ_Blood_P.(pak,ucas,utoc)                                   PotZ - Better Blood Wallmarks        Required if using "PotZ - Better Blood Wallmarks"        Also needs the patch: "zzzzzzzzzzz_MHM_PoZBloodConfigPatch_P.pak"
 zz_PoZWounds_P.(pak,ucas,utoc)                                   PotZ - Bloody Wounds                 Required if using "PotZ - Bloody Wounds"
 ZZZ_ProjectItemization-Textures_P.(pak,ucas,utoc)                Project Itemization                  !!REQUIRED!!
-zzzz_am3_SLZxMHM_v1.2.1_P.pak                                    Shay's Living Zone                   Required if using "Shay's Living Zone"                   Don't use with "A-Life Found a Way"
+zzzz_am3_SLZxMHM_v1.2.1_P.pak                                    Shay's Living Zone                   Required if using "Shay's Living Zone"                   Don't use with "A-Life Found a Way". Timescale mods discouraged by Shay for use with this.
 zzzzzz_MutantPhysicsFix.pak                                      Mutant Physics and Audio Fix         Required if using "Mutant Physics and Audio Fix"
 zzzzzz_NoSuperHearing_P.pak                                      Instant Long Range Aggression Fix    Required if using "Instant Long Range Aggression Fix"
 zzzzzz_NoSuperVisionEither_P.pak                                 Instant Long Range Aggression Fix    Required if using "Instant Long Range Aggression Fix"
