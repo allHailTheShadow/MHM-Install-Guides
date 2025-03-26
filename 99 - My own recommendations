@@ -57,10 +57,15 @@ Somewhat recommended - depends on personal taste:
 	Performance/Optimization/FPS/Anti-lag mods:
 		I was previously using a performance mod, but am now on the fence about it with the new 1.3 patch.
 		I am cautious of recommending one over another, as everyone has different hardware and fps vs lag preferences.
-		A lot of them change visuals too.
+		A lot of them change visuals too. Some cause crashing in certain areas.
+		Feel free to try them out and see what works for you.
 
+	Gun Jam Swearing
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/900
+		Compatible with everything (just replaces gun jam audio).
+		Ukrainian voice only.
 
-Somewhat Recommended - Nice mods that have either balance or technical issues
+Somewhat Recommended - Nice mods that have balance and/or technical issues
 
 	Stalker Faction ID
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/665
@@ -73,7 +78,7 @@ Somewhat Recommended - Nice mods that have either balance or technical issues
 	Dodge
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1243
 		Out of the box settings are way off-balance.
-		Needs adjusting to be in the spirit of MHM.
+		Unbalanced for MHM.
 		Copy the three "Dodge*" files to "~mods"
 		Change settings as per article on mod page: https://www.nexusmods.com/stalker2heartofchornobyl/articles/145
 		Run command: mod add /Game/Mods/Dodge/ModActor.ModActor_C 
@@ -81,7 +86,7 @@ Somewhat Recommended - Nice mods that have either balance or technical issues
 	Focus Aim
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1218
 		Out of the box settings are way off-balance.
-		Needs adjusting to be in the spirit of MHM.
+		Unbalanced for MHM.
 		Copy the three "FocusAim*" files to "~mods"
 		Change settings as per article on mod page: https://www.nexusmods.com/stalker2heartofchornobyl/articles/152
 		Run command: mod add /Game/Mods/FocusAim/ModActor.ModActor_C
@@ -89,7 +94,7 @@ Somewhat Recommended - Nice mods that have either balance or technical issues
 	Grab Objects
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1296
 		Out of the box settings are way off-balance.
-		Needs adjusting to be in the spirit of MHM.
+		Unbalanced for MHM.
 		Copy the three "GrabObjects*" files to "~mods"
 		Change settings as per article on mod page: https://www.nexusmods.com/stalker2heartofchornobyl/articles/154
 		Run command: mod add /Game/Mods/GrabObjects/ModActor.ModActor_C
@@ -99,35 +104,83 @@ Somewhat Recommended - Nice mods that have either balance or technical issues
 		Amazing work without the official SDK.
 		If you have finished the game and want a freeplay mod, this is what you are looking for.
 		Have to customize install for each type of start - no ingame selector (yet)
-		Needs updated compatability patch (current patch only for 2.0.5, current MHM version 2.0.8)
+		Might need updated compatibility patch
+			- Current patch only for 2.0.5 (current MHM version 2.0.8)
+			- Might be fine anyway 
+
+	Shay's - Roaming Professions - Expanded Trade Inventory (S-RPETI)
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1210
+		Some NPCs have a trade inventory based on their profession. Low chance of 
+		spawning. Trade inventory is drawn from faction traders.
+		Unbalanced for MHM (perhaps - not tested yet).
+		
 
 	Shay's - Talk and Trade To Anyone (S-TTTA)
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1209
 		No more "talk to the boss".
-		Why not fully recommended? Needs a compatability patch if used with the S.T.F.U. mod.
-		If you don't use S.T.F.U., then this mod has no issues working with MHM.
+		Not compatible with the S.T.F.U. mod.
 
-	Skill Magazines
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1152
-		Very interesting mod, but wildly unbalanced for MHM
-		Has compatability issues with localization.
-		
 	ART - Artifacts Reforged and Transformed
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1071
 		Interesting looking artifacts mod.
-		Has a compatability patch for MHM.
-		Might have balance issues, and MHM will eventually cover artifacts anyway.
+		Has a compatibility patch for MHM (might be outdated, check first).
+		Unbalanced for MHM.
+		MHM will eventually cover artifacts anyway.
+
+Not Recommended - Interesting mods that have compatibility and/or technical issues.
+
+	Skill Magazines
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1152
+		Cool idea.
+		Unbalanced for MHM.
+		Not compatibile (localization). No patch exists.
+
+	Artifacts Overhaul
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/933
+		Another interesting take on artifacts.
+		Unbalanced for MHM.
+		Not compatibile. No patch exists.
+		MHM will eventually cover artifacts anyway.
 
 	Elemental Artifacts
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1129?file_id=7705
-		Another interesting looking artifacts mod.
-		Might have balance issues, and MHM will eventually cover artifacts anyway.
-		
+		Another interesting take on artifacts.
+		Unbalanced for MHM.
+		Not compatibile. No patch exists.
+		MHM will eventually cover artifacts anyway.
+
+	Ledge Grabbing by Kennymylenny
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/204
+		Makes puzzles too easy.
+		Breaks parkour in some areas.
+		Could be good with some tweaking and a merge.
+		Not compatible. No patch exists.
+
+	NPCS cant THROW
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1008
+		Gives a chance for enemies to miss with grenade, which will now land somewhere 
+		in an adjustable radius.
+		Not compatibile. No patch exists.
+
+Untested
+	These are technically compatible, but not sure how they would work overall with MHM.
+
+	Separated helmets and armor
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1111
+		Balance?
+
+	Extended Equipment
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1005
+		If somehow these could be moved off the head, and into armor slots, that would
+		be killer.
+		Balanced?
+
+
 No Longer Recommended
 
 	MinUI Suit (MinUI, MinHUD, Clean Button Prompts):
 		The updated UI components of MHM 2.0.8 is all you need.
-		These would now cause compatability issues.
+		These would now cause compatibility issues.
 		Nice mods though. Just not needed for MHM.
 
 
