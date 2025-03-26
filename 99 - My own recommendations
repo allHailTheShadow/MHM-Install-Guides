@@ -46,6 +46,10 @@ Recommended:
 		Overwrite the original in "<gamedir>\Stalker2\Plugins\ChromaSDKPlugin\ThirdParty\Win64"
 		Make a backup of the original if you wish
 
+	Improved Saves Modular
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1315
+		Vast improvement over the number of saves allowed, and the behaviour thereof.
+		NOT COMPATIBLE WITH MASTER MODE OR CAMPFIRE SAVES ADDON.
 
 Somewhat recommended - depends on personal taste:
 
@@ -101,7 +105,7 @@ Somewhat Recommended - Nice mods that have balance and/or technical issues
 		Run command: mod add /Game/Mods/GrabObjects/ModActor.ModActor_C
 
 	New Game Start
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1211?tab=files
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1211
 		Amazing work without the official SDK.
 		If you have finished the game and want a freeplay mod, this is what you are looking for.
 		Have to customize install for each type of start - no ingame selector (yet).
@@ -145,7 +149,7 @@ Not Recommended - Interesting mods that have compatibility and/or technical issu
 		MHM will eventually cover artifacts anyway.
 
 	Elemental Artifacts
-		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1129?file_id=7705
+		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1129
 		Another interesting take on artifacts.
 		Unbalanced for MHM.
 		Not compatibile. No patch exists.
@@ -167,10 +171,11 @@ Not Recommended - Interesting mods that have compatibility and/or technical issu
 
 Untested
 	These are technically compatible, but not sure how they would work overall with MHM.
+	They also require a seperate loader. Might be kinda janky.
 
 	Separated helmets and armor
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1111
-		Balance?
+		Balanced?
 
 	Extended Equipment
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1005
