@@ -8,19 +8,20 @@ CONTENTS
 	02 - About Adding Other Mods
 	03 - Recommended
 		* Flashlight Customizer﻿
-		* Improved Saves Modular    <-- Not for Campfire Saves or Master-Mode
-		* STK2 - SPF                <-- Only for CChromaEditorLibrary64.dll replacement.
+		* Improved Saves Modular (INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE-ADDON)
+		* STK2-SPF (Only for CChromaEditorLibrary64.dll replacement)
 	04 - Somewhat Recommended (User Preference)
 		* Gun Jam Swearing
+		* Skip Prologue (INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE-ADDON)
 		* Performance/Optimization/FPS/Anti-lag/...
 	05 - Somewhat Recommended (Has Balance/Technical Issues)
 		* ART - Artifacts Reforged and Transformed
 		* Dodge
 		* Focus Aim
 		* Grab Objects
-		* New Game Start
-		* Shay's - Roaming Professions - Expanded Trade Inventory (S-RPETI)
-		* Shay's - Talk and Trade To Anyone (S-TTTA)
+		* New Game Start (INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE-ADDON)
+		* Shay's Roaming Professions
+		* Shay's Talk and Trade To Anyone (INCOMPATIBLE WITH S.T.F.U.)
 		* Stalker Faction ID
 	06 - Not Currently Recommended (Has Compatibility/Technical Issues)
 		* Artifacts Overhaul		
@@ -71,9 +72,9 @@ CONTENTS
 	  * Other mods will most likely require some kind of compatiblity patch.
 	  * Check mod description for compatibility notes.
 	  * Look for compatibility patches in the MHM AIO or MHM Core to see if they exist.
-	  * Look for compatibility patches on mod download page, or inside downloaded archives.
+	  * Look for compatibility patches on mod download pages, or inside downloaded archives.
 	  * Check what files the mod changes to see if it is compatible.
-	  * Backup your saves. If you had stuff to your game mid-playthrough, and it turns out to be causing issues,
+	  * Backup your saves. If you add stuff to your game mid-playthrough, and it turns out to be causing issues,
 	    then removing it can bork your savegame.
 
 
@@ -90,10 +91,10 @@ CONTENTS
 		Press "Right-Alt + L" in-game to bring up customizer menu
 		You can download some kind of preset if you wish, but I just tinker with the settings until I find what felt right for me.
 
-	Improved Saves Modular    <-- Not for Campfire Saves or Master-Mode
+	Improved Saves Modular
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1315
 		Vast improvement over the number of saves allowed, and the behaviour thereof.
-		NOT COMPATIBLE WITH MASTER-MODE OR CAMPFIRE SAVES ADDON.
+		INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE-ADDON
 
 	STK2 - SPF    <-- Only for CChromaEditorLibrary64.dll replacement
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/9
@@ -121,6 +122,7 @@ CONTENTS
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/981
 		If you have seen/played the intro one too many times...
 		Copy "zzz_Skip_E01_MQ01_NoAwaken_P.pak" to "~mods"
+		INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE-ADDON
 
 	Performance/Optimization/FPS/Anti-lag mods:
 		* There are a great variety of these.
@@ -171,9 +173,8 @@ CONTENTS
 		Amazing work without the official SDK.
 		If you have finished the game and want a freeplay mod, this is what you are looking for.
 		Have to customize install for each type of start - no ingame selector (yet).
-		Might need updated compatibility patch
-			- Current patch only for 2.0.5 (current MHM version 2.0.8)
-			- Might be fine anyway 
+		INCLUDED COMPATIBILITY PATCH HAS BEEN UPDATED FOR LATEST MHM
+		INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE-ADDON
 
 	Shay's - Roaming Professions - Expanded Trade Inventory (S-RPETI)
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1210
