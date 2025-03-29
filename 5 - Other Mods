@@ -20,7 +20,7 @@ CONTENTS
 		* Focus Aim
 		* Grab Objects
 		* New Game Start (INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE-ADDON)
-		* Shay's Roaming Professions
+		* Shay's Roaming Professions (REQUIRES SHAY'S TTA)
 		* Shay's Talk and Trade To Anyone (INCOMPATIBLE WITH S.T.F.U.)
 		* Stalker Faction ID
 	06 - Not Currently Recommended (Has Compatibility/Technical Issues)
@@ -176,13 +176,14 @@ CONTENTS
 		INCLUDED COMPATIBILITY PATCH HAS BEEN UPDATED FOR LATEST MHM
 		INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE-ADDON
 
-	Shay's - Roaming Professions - Expanded Trade Inventory (S-RPETI)
+	Shay's Roaming Professions
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1210
 		Some NPCs have a trade inventory based on their profession. Low chance of 
 		spawning. Trade inventory is drawn from their respective faction traders.
-		Unbalanced for MHM (perhaps - not tested yet).
+		Unbalanced for MHM
+		REQUIRES SHAY'S TTA
 
-	Shay's - Talk and Trade To Anyone (S-TTTA)
+	Shay's Talk and Trade To Anyone
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1209
 		No more "talk to the boss".
 		Not compatible with the S.T.F.U. mod.
