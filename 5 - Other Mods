@@ -1,6 +1,22 @@
 ===== MHM Other Mods =====
 
 
+
+======================================================================================================
+======================================================================================================
+||                                                                                                  ||
+||    ALMOST ALL MODS WILL BE INCOMPATIBLE WITH FULL MHM SETUP                                      ||
+||                                                                                                  ||
+||    EXCEPTIONS: Blueprint-style mods loaded with Simple Mod Loader or UE4SS                       ||
+||                Refurl-only mods (read mod description page to make sure)                         ||
+||                Mods that specifically, 100% do not edit any of the same files as MHM (Unlikely)  ||
+||                Mods that include a compatibility patch for MHM                                   ||
+||                                                                                                  ||
+======================================================================================================
+======================================================================================================
+
+
+
 ========
 CONTENTS
 ========
@@ -46,24 +62,6 @@ CONTENTS
 =========
 01 - Info
 =========
-	After trawling through about a thousand mods on NexusMods, there is very little I would recommend to 
-	add on top of MHM and the MHM authors recommendations, because they mostly they comprise of:
-		* Stuff that makes some small change that MHM already covers, but would break MHM
-		* Performance mods, some of them quite questionable
-		* Non-Lore-Friendly stuff
-		* Reshades that are very much taste dependent
-		* Stuff that hasn't been updated for latest patch (not every mod needs to be, but some definately do).
-		* Cheat mods for carry weight, stamina, etc, that just don't fit with MHM (and would be incompatible anyway)
-
-	Not trying to shit on mod authors, a lot of these mods are amazing, and a lot of work goes into them. It is just
-	that not many of them would fit well on top of MHM.
-
-	It's really a testament to how thorough in scope the full MHM suite is.
-
-
-============================
-02 - About Adding Other Mods
-============================
 	This information was presented in part 3, but bears repeating here.
 
 	IMPORTANT - Be cautious of adding mods on top of big overhauls like MHM:
@@ -181,7 +179,7 @@ CONTENTS
 		Some NPCs have a trade inventory based on their profession. Low chance of 
 		spawning. Trade inventory is drawn from their respective faction traders.
 		Unbalanced for MHM
-		REQUIRES SHAY'S TTA
+		REQUIRES SHAY'S TTA (and is therefore incompatible with S.T.F.U.)
 
 	Shay's Talk and Trade To Anyone
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1209
