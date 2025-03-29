@@ -44,8 +44,8 @@ CONTENTS
 
 	Shay's Living Zone:
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/446
-		Download "V3 - SLZ - Alternative Main Mods Collection" main file (only)
-		Copy "zzzz_am3_SLZxMHM_v1.2.1_P.pak" to "~mods"
+		From "Optional Files", download "Add-On Modules and Alternative Mani Mods"
+		Copy the file called "zzzz_am3_SLZxMHM_P.pak" from the folder "AM3 SLZxMHM" to your "~mods" folder
 
 	A-Life Found a Way﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1122
