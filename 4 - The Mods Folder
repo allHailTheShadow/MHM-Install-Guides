@@ -83,7 +83,7 @@ ZZ_Mutant_Loot_Textures_P                                     (pak,ucas,utoc)   
 zz_PoZ_Blood_P                                                (pak,ucas,utoc)    Required                         PotZ - Better Blood Wallmarks           -                      Also needs the patch: "zzzzzzzzzzz_MHM_PoZBloodConfigPatch_P.pak"
 zz_PoZWounds_P                                                (pak,ucas,utoc)    Required                         PotZ - Bloody Wounds                    -
 ZZZ_ProjectItemization-Textures_P                             (pak,ucas,utoc)    !!REQUIRED!!                     MHM                                     Project Itemization
-zzzz_am3_SLZxMHM_v1.2.1_P                                     (pak)              Required                         Shay's Living Zone                      -                      Don't use with "A-Life Found a Way". Timescale mods discouraged by Shay for use with this.
+zzzz_am3_SLZxMHM_P                                            (pak)              Required                         Shay's Living Zone                      -                      Don't use with "A-Life Found a Way". Timescale mods discouraged by Shay for use with this.
 zzzzzz_MutantPhysicsFix                                       (pak)              Required                         Mutant Physics and Audio Fix            -
 zzzzzz_NoSuperHearing_P                                       (pak)              Required                         Instant Long Range Aggression Fix       -
 zzzzzz_NoSuperVisionEither_P                                  (pak)              Required                         Instant Long Range Aggression Fix       -
