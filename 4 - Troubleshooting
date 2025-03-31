@@ -6,8 +6,9 @@ CONTENTS
 ========
 	01 - Info
 	02 - Main Source of Issues
-	03 - Basic MHM Install
-	04 - Extended MHM Install
+	03 - Changing Difficulty
+	04 - Basic MHM Install
+	05 - Extended MHM Install
 
 
 =========
@@ -32,8 +33,65 @@ CONTENTS
 	* Mods that are not recommended by the author of MHM
 
 
+========================
+03 - Changing Difficulty
+========================
+	To a large extent, you can change the difficulty of MHM, even during a playthrough.
+	Exception: AFAIK, once you have campfire saves (whether by Campfire Saves addon or by Master Mode addon), you need to keep it for that playthrough.
+	You can swap campmfire saves with master mode (?)(afaik)(unconfirmed)
+
+		Standard                   --> Standard+Campfires            Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak"
+		Standard                   --> Standard+Relaxed              Add "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
+		Standard                   --> Standard+Relaxed+Campfires    Add "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak". Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak".
+		Standard                   --> Hardcore                      Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak"
+		Standard                   --> Hardcore+Campfires            Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak". Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak"
+		Standard                   --> Hardcore+MasterMode           Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak". Add "zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak"
+
+		Standard+Campfires         --> Standard                      Too bad
+		Standard+Campfires         --> Standard+Relaxed              Too bad
+		Standard+Campfires         --> Standard+Relaxed+Campfires    Add "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
+                Standard+Campfires         --> Hardcore                      Too bad
+                Standard+Campfires         --> Hardcore+Campfires            Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak"
+                Standard+Campfires         --> Hardcore+MasterMode           Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak". Add "zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak"
+
+		Standard+Relaxed           --> Standard                      Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
+		Standard+Relaxed           --> Standard+Campfires            Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak". Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak"
+		Standard+Relaxed           --> Standard+Relaxed+Campfires    Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak"
+		Standard+Relaxed           --> Harcore                       Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak". Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak".
+		Standard+Relaxed           --> Hardcore+Campfires            Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak". Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak". Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
+		Standard+Relaxed           --> Hardcore+MasterMode           Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak". Add "zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak". Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
+
+		Standard+Relaxed+Campfires --> Standard                      Too bad
+		Standard+Relaxed+Campfires --> Standard+Campfires            Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
+		Standard+Relaxed+Campfires --> Standard+Relaxed              Too bad
+		Standard+Relaxed+Campfires --> Hardcore                      Too bad
+		Standard+Relaxed+Campfires --> Hardcore+Campfires            Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak". Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
+		Standard+Relaxed+Campfires --> Hardcore+MasterMode           Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak". Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak". Remove "zzzzzzzzzzzz_MHM_CampfireSaves.pak". Add "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
+
+		Hardcore                   --> Standard                      Replace "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak"
+		Hardcore                   --> Standard+Campfires            Replace "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak". Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak"		
+		Hardcore                   --> Standard+Relaxed              Replace "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak". Add "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
+		Hardcore                   --> Standard+Relaxed+Campfires    Replace "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak". Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak". Add "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
+		Hardcore                   --> Hardcore+Campfires            Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak"
+		Hardcore                   --> Hardcore+MasterMode           Add "zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak"
+
+		Hardcore+Campfires         --> Standard                      Too bad
+		Hardcore+Campfires         --> Standard+Campfires            Replace "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak"
+		Hardcore+Campfires         --> Standard+Relaxed              Too bad
+		Hardcore+Campfires         --> Standard+Relaxed+Campfires    Replace "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak". Add "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
+		Hardcore+Campfires         --> Hardcore                      Too bad
+		Hardcore+Campfires         --> Hardcore+MasterMode           Remove "zzzzzzzzzzzz_MHM_CampfireSaves.pak". Add "zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak"
+
+		Hardcore+MasterMode        --> Standard                      Too bad
+		Hardcore+MasterMode        --> Standard+Campfires            Replace "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak". Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak". Remove "zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak"
+		Hardcore+MasterMode        --> Standard+Relaxed              Too bad
+		Hardcore+MasterMode        --> Standard+Relaxed+Campfires    Replace "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak". Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak". Add "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak". Remove "zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak"
+		Hardcore+MasterMode        --> Hardcore                      Too bad
+		Hardcore+MasterMode        --> Hardcore+Campfires            Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak". Remove "zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak"
+
+
 ======================
-03 - Basic MHM Install
+04 - Basic MHM Install
 ======================
 	For a standard MHM AIO setup, without any of the official addons, or recommended mods, your "~mods" folder should contain --ONLY-- the following:
 
@@ -56,7 +114,7 @@ CONTENTS
 
 
 =========================
-04 - Extended MHM Install
+05 - Extended MHM Install
 =========================
 	For a MHM install that includes additional mods/patches/addons, consult the chart to find out what's missing, or what should not be there.
 
