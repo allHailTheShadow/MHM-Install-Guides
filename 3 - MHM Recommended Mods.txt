@@ -44,8 +44,8 @@ CONTENTS
 
 	Shay's Living Zone:
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/446
-		From "Optional Files", download "Add-On Modules and Alternative Mani Mods"
-		Copy the file called "zzzz_am3_SLZxMHM_P.pak" from the folder "AM3 SLZxMHM" to your "~mods" folder
+		From "Optional Files", download "Add-On Modules and Alternative Main Mods"
+		Copy the file called "zzzz_SLZxMHM_P.pak" from the folder "AM3 SLZxMHM" to your "~mods" folder
 
 	A-Life Found a Way﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1122
@@ -55,6 +55,7 @@ CONTENTS
 		Copy --one-- of the files from the "MHM\Patches and Addons\Patch: A-Life Found a Way":
 		    If using Master Mode addon: Copy "zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak" to "~mods"
 		    Otherwise:                  Copy "zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak" to "~mods"
+
 
 =============
 ﻿03 - AI / NPC
