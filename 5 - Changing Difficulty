@@ -2,8 +2,12 @@
 Changing Difficulty
 ===================
 To a large extent, you can change the difficulty of MHM, even during a playthrough.
-Exception: AFAIK, once you have campfire saves (whether by Campfire Saves addon or by Master Mode addon), you need to keep it for that playthrough.
-You can swap campmfire saves with master mode (?)(afaik)(unconfirmed)
+Exception:   AFAIK, once you have campfire saves (whether by Campfire Saves addon or by Master Mode addon), you need to keep it for that playthrough.
+Unconfirmed: AFAIK, you can swap campmfire saves with master mode
+
+
+
+
 
 Standard                   --> Standard+Campfires            Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak"
 Standard                   --> Standard+Relaxed              Add "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
