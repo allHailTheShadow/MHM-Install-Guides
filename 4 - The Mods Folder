@@ -24,11 +24,11 @@ CONTENTS
 ==========================
 	* Make double sure that you have ~NOT~ installed any of LNA file other than "LNA01_99_P.pak"
 	* Make double sure that you have ~NOT~ installed "OXA03_P.pak" from OXA
-	* Make sure that you are using the LocalizationDB_P files from MHM and not some other mod
-	* Make sure to get rid of older, no longer required texture files from older versions of MHM and previsously required mods:
-	    - xxxPillhead_Textures.(pak,ucas,utoc)          <-- Now bundled with MHM
-	    - Ziv_RepairKitBundle_Textures.(pak,ucas,utoc)  <-- Now bundled with MHM
-	    - MHMTextures.(pak,ucas,utoc)                   <-- New versions are called "zzzzzzz_MHMTextures0z_P.*"
+	* Make sure that you are using the "LocalizationDB_P.*" files from MHM and not some other mod
+	* Make sure to get rid of obsolete texture files from older versions of MHM and previsously required mods:
+	    - xxxPillhead_Textures.(pak,ucas,utoc)
+	    - Ziv_RepairKitBundle_Textures.(pak,ucas,utoc)
+	    - MHMTextures.(pak,ucas,utoc)                    <-- New versions are called "zzzzzzz_MHMTextures0z_P.*"
 	* Mods that are not recommended by the author of MHM
 
 
