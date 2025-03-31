@@ -217,9 +217,9 @@ CONTENTS
 				Don't use with "A-Life Found a Way"
 		Why:		Combines Shay mods "Living Zone", "Talk and Trade to Anyone", "Roaming Professions", as well as some additional changes not present in other Shay mods.
 		Why not:	Considered unbalanced for MHM as it includes "Shay's Roaming Professions"
-		Instructions:	Download "Living Zone Complete for Stalker 2" main file
-				Copy "zzzz_SLZC_P.pak" to "~mods"
-				Delete "STTTA_P.pak", "SRPETI_P.pak", "zzzz_SLZxMHM_P.pak" from "~mods" (if they exist)
+		Instructions:	Download "Living Zone Complete - MHM Compatible" optional file (only)
+				Copy "SLZC_MHMCOMPAT_P.pak" to "~mods"
+				Delete "STTTA_P.pak", "SRPETI_P.pak", "zzzz_SLZxMHM_P.pak", and "zzzz_SLZC_P.pak" from "~mods" (if any such files exist)
 
 	Shay's Roaming Professions
 		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1210
