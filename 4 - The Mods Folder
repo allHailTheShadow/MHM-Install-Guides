@@ -39,8 +39,6 @@ CONTENTS
 
 		LNA01_99_P				(pak)
 		LocalizationDB_P			(pak,ucas,utoc)		    (from MHM_AIO, not from any other mod)
-		zzzzzzz_MHMTextures0z_P			(pak,ucas,utoc)
-		zzzzzzz_MHM_Interface0z_P		(pak,ucas,utoc)
 		OXA0X					(pak,ucas,utoc)
 		OXA01_P					(pak,ucas,utoc)
 		OXA02_P					(pak,ucas,utoc)
@@ -49,6 +47,8 @@ CONTENTS
 		zz_FactionsPatch_Textures_P		(pak,ucas,utoc)
 		ZZ_Mutant_Loot_Textures_P		(pak,ucas,utoc)
 		ZZZ_ProjectItemization-Textures_P	(pak,ucas,utoc)
+		zzzzzzz_MHMTextures0z_P			(pak,ucas,utoc)
+		zzzzzzz_MHM_Interface0z_P		(pak,ucas,utoc)
 		
 		zzzzzzz_MHM_2.0_AIO_Full_Standard	(pak)
 			--OR--
