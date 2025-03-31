@@ -274,4 +274,4 @@ CONTENTS
 	Bolt Jump       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1283    mod add /Game/Mods/BoltJump/ModActor.ModActor_C     https://www.nexusmods.com/stalker2heartofchornobyl/articles/151
 	Locksmith       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1291    ﻿mod add /Game/Mods/Locksmith/ModActor.ModActor_C
 	Teleport        https://www.nexusmods.com/stalker2heartofchornobyl/mods/1265    mod add /Game/Mods/Teleport2/ModActor.ModActor_C
-	DebugInfo Mod	https://www.nexusmods.com/stalker2heartofchornobyl/mods/368
+	DebugInfo Mod	https://www.nexusmods.com/stalker2heartofchornobyl/mods/368     mod add /Game/Mods/DebugInfo/BP_Mod_DebugInfo.BP_Mod_DebugInfo_C
