@@ -213,7 +213,8 @@ CONTENTS
 		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1301
 		Compatibility:	All (Uses refurl)
 				Don't use with other Shay mods.
-		Why:		Combines Shay mods "Living Zone", "Talk and Trade to Anyone", "Roaming Professions", as well as additional changes.
+				Don't use with "A-Life Found a Way"
+		Why:		Combines Shay mods "Living Zone", "Talk and Trade to Anyone", "Roaming Professions", as well as some additional changes not present in other Shay mods.
 		Why not:	Considered unbalanced for MHM as it includes "Shay's Roaming Professions"
 		Instructions:	Download "Living Zone Complete for Stalker 2" main file
 				Copy "zzzz_SLZC_P.pak" to "~mods"
@@ -244,7 +245,7 @@ CONTENTS
 =========================================================
 05 - Not Recommended (Compatibility Issues)
 =========================================================
-	Interesting mods that you may be tempted to use that have compatibility issues with MHM
+	Cool/interesting mods that you may be tempted to use that have compatibility issues with MHM
 		Artifacts Overhaul
 		Elemental Artifacts
 		Ledge Grabbing
@@ -270,7 +271,7 @@ CONTENTS
 ================================================
 07 - For Mod Testing / Game Progress Issues Only
 ================================================
-	Bolt Jump       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1283
-	Locksmith       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1291
-	Teleport        https://www.nexusmods.com/stalker2heartofchornobyl/mods/1265
+	Bolt Jump       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1283    mod add /Game/Mods/BoltJump/ModActor.ModActor_C     https://www.nexusmods.com/stalker2heartofchornobyl/articles/151
+	Locksmith       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1291    ﻿mod add /Game/Mods/Locksmith/ModActor.ModActor_C
+	Teleport        https://www.nexusmods.com/stalker2heartofchornobyl/mods/1265    mod add /Game/Mods/Teleport2/ModActor.ModActor_C
 	DebugInfo Mod	https://www.nexusmods.com/stalker2heartofchornobyl/mods/368
