@@ -68,7 +68,7 @@ AmmoBoxesPlus_P                                               (pak,ucas,utoc)   
 DWO_BaseWeathers_P                                            (pak,ucas,utoc)    Recommended                      Dynamic Weather Overhaul                -                      Recommended to also use "Feliche's Longer Days"
 DWO_Emissions_P                                               (pak,ucas,utoc)    Optional                         Dynamic Weather Overhaul                -                      Recommended to also use "Feliche's Longer Days"
 DWO_Weathers_P                                                (pak,ucas,utoc)    Required                         Dynamic Weather Overhaul                -                      Recommended to also use "Feliche's Longer Days"
-Feliche_Real_LongerDays_P                                     (pak,ucas,utoc)    Required                         Feliche's Longer Days                   -                      Recommended if using "Dynamic Weather Overhaul"
+Feliche_Real_LongerDays_P                                     (pak,ucas,utoc)    Required                         Feliche's Longer Days                   -                      Recommended if using "Dynamic Weather Overhaul". Using x1, x1.5, or x2 if using SLZ.
 Feliche_Weapon_Fov_P                                          (pak,ucas,utoc)    Required                         Feliche's Weapon Reposition             -
 Immersive Music Ambience                                      (pak)              Required                         Immersive Music Ambience                -
 LargeLootBox_P                                                (pak,ucas,utoc)    Required                         Large Loot Inventory                    -
