@@ -17,6 +17,15 @@
 
 
 
+======================================================================================================
+======================================================================================================
+||                                                                                                  ||
+||    NONE OF THE MODS INCLUDED IN THIS FILE ARE OFFICIALLY RECOMMENDED BY MHM                      ||
+||                                                                                                  ||
+======================================================================================================
+======================================================================================================
+
+
 ========
 CONTENTS
 ========
@@ -46,6 +55,7 @@ CONTENTS
 		* Ledge Grabbing
 		* NPCS cant THROW
 		* Skill Magazines
+		* The Last Days - Restored cut side quest
 	07 - No Longer Recommended
 		* MinUI - MinUI
 		* MinUI - MinHUD
@@ -240,6 +250,7 @@ CONTENTS
 		Ledge Grabbing
 		NPCS cant THROW
 		Skill Magazines
+		The Last Days - Restored cut side quest    <-- Technically compatible, but requires localization merging
 
 
 ==========================
