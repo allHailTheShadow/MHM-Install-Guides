@@ -26,7 +26,7 @@ Standard+Campfires         --> Hardcore+MasterMode           Replace "zzzzzzz_MH
 Standard+Relaxed           --> Standard                      Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
 Standard+Relaxed           --> Standard+Campfires            Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak". Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak"
 Standard+Relaxed           --> Standard+Relaxed+Campfires    Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak"
-Standard+Relaxed           --> Harcore                       Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak". Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak".
+Standard+Relaxed           --> Hardcore                       Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak". Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak".
 Standard+Relaxed           --> Hardcore+Campfires            Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak". Add "zzzzzzzzzzzz_MHM_CampfireSaves.pak". Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
 Standard+Relaxed           --> Hardcore+MasterMode           Replace "zzzzzzz_MHM_2.0_AIO_Full_Standard.pak" with "zzzzzzz_MHM_2.0_AIO_Full_Hardcore.pak". Add "zzzzzzzzzzzzz_Master_Mode_Hardcore_AIO_P.pak". Remove "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak"
 
