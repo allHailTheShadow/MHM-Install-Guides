@@ -79,8 +79,8 @@ CONTENTS
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1001
 		Download "Recommended_Engine_ini_Additions"
 
-		Using "A-Life Found a Way" or the MHM AIO:
-			Yes:	DON'T Copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods" (it is included in the A-Life mod)
+		Using "MHM AIO", "MHM Core Module", or "A-Life Found a Way":
+			Yes:	DON'T Copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods" (it is already bundled in, and will cause issues if added to ~mods)
 			No :	DO copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods"
 
 		Gamepass or Steam?
