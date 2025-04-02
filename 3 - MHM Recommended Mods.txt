@@ -80,7 +80,7 @@ CONTENTS
 		Download "Recommended_Engine_ini_Additions"
 
 		Using "MHM AIO", "MHM Core Module", or "A-Life Found a Way":
-			Yes:	DON'T Copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods" (it is already bundled in, and will cause issues if added to ~mods)
+			Yes:	DON'T Copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods" (it is already bundled in, and will cause issues if added)
 			No :	DO copy "Vanilla_AIGlobals_XRay_Fix_P.pak" to "~mods"
 
 		Gamepass or Steam?
