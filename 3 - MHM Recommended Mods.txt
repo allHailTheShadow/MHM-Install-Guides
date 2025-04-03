@@ -33,7 +33,7 @@ CONTENTS
 01 - Info
 =========
 	These are mods that are recommended by the MHM author to supplement the MHM setup.
-	Read the Mod Description page before deciding to use any.
+	Read their respective mod Description pages before deciding to use any.
 	Use any/all/none as you see fit.
 
 
@@ -42,14 +42,14 @@ CONTENTS
 ===========
 	Use "Shay's Living Zone" --OR-- "A-Life uh... Found a Way", but not both
 
-	Shay's Living Zone:
+	Shay's Living Zone Modular:
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/446
 		From "Optional Files", download "Add-On Modules and Alternative Main Mods"
 		Copy the file called "zzzz_SLZxMHM_P.pak" from the folder "AM3 SLZxMHM" to your "~mods" folder
 
 	A-Life Found a Way﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1122
-		REQIRES "Stop NPCs X-Ray Vision and Other Collision Tweaks"
+		REQIRES "Stop NPCs X-Ray Vision and Other Collision Tweaks"    <-- engine.ini edits only, not the pak file
 		Download "ALife_Found_A_Way" main file
 		Copy "zzzzzzzz_ALife_Found_A_Way_P.pak" to "~mods"
 		Copy --one-- of the files from the "MHM\Patches and Addons\Patch: A-Life Found a Way":
@@ -71,7 +71,7 @@ CONTENTS
 			zzzzzz_NoSuperHearing
 			zzzzzz_NoSuperVisionEither
 			zzzzzz_ThreatNeededBalance
-		The fourth file is optional (but recommended):
+		The fourth file is optional (but recommended by the author of that mod):
 			zzzzzzz_RadioInterference
 		Copy the pak file from each of the downloads to "~mods"
 
