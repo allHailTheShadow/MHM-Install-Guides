@@ -42,6 +42,7 @@ CONTENTS
 		* Skip Prologue			<-- INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE-ADDON
 		* Performance/Optimization/FPS/Anti-lag/...
 	05 - Somewhat Recommended (Balance Issues)
+		* Anomaly Sense
 		* ART - Artifacts Reforged and Transformed
 		* Dodge
 		* Focus Aim
@@ -170,6 +171,15 @@ CONTENTS
 ========================================================
 04 - Somewhat Recommended (Balance Issues)
 ========================================================
+	Anomaly Sense
+		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1294
+		Compatibility:	All (Blueprints/SMM)
+		Why:		Interesting take on artifact detection
+		Why not:	Unbalanced for MHM
+		Instructions:	Copy the three "AnomalySense*" files to "~mods"
+				Change settings as per article on mod page: https://www.nexusmods.com/stalker2heartofchornobyl/articles/153
+				﻿mod add /Game/Mods/AnomalySense/ModActor.ModActor_C
+
 	ART - Artifacts Reforged and Transformed
 		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1071
 		Compatibility:	Make sure to use the included compatibility patch.
