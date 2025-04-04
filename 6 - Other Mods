@@ -30,18 +30,19 @@
 CONTENTS
 ========
 	01 - Info
-	02 - About Adding Other Mods
-	03 - Recommended
+	02 - Recommended
 		* Flashlight Customizer﻿
-		* Improved Saves Modular	<-- INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE-ADDON
-		* STK2-SPF			<-- Only for CChromaEditorLibrary64.dll replacement
-	04 - Somewhat Recommended (User Preference)
+		* Improved Saves Modular		<-- INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE ADDONS
+		* STK2-SPF				<-- Only for CChromaEditorLibrary64.dll replacement
+	03 - Somewhat Recommended (User Preference)
 		* Gun Jam Swearing
-		* New Game Start		<-- INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE-ADDON
+		* The Last Days
+		* MinUI Suite				<-- INCOMPATIBLE WITH AIO/USER INTERFACE MODULE
+		* New Game Start			<-- INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE ADDONS
 		* Shay's Talk and Trade To Anyone
-		* Skip Prologue			<-- INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE-ADDON
+		* Skip Prologue				<-- INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE ADDONS
 		* Performance/Optimization/FPS/Anti-lag/...
-	05 - Somewhat Recommended (Balance Issues)
+	04 - Somewhat Recommended (Balance Issues)
 		* Anomaly Sense
 		* ART - Artifacts Reforged and Transformed
 		* Dodge
@@ -50,19 +51,15 @@ CONTENTS
 		* Shay's Living Zone Complete
 		* Shay's Roaming Professions
 		* Stalker Faction ID
-	06 - Not Currently Recommended (Compatibility Issues)
+	05 - Not Currently Recommended (Compatibility Issues)
 		* Artifacts Overhaul
 		* Elemental Artifacts
+		* HCWUxOXA
 		* Ledge Grabbing
 		* NPCS cant THROW
 		* Physics Performance Enhancer
 		* Skill Magazines
-		* The Last Days - Restored cut side quest
-	07 - No Longer Needed
-		* MinUI - MinUI
-		* MinUI - MinHUD
-		* MinUI - Clean Button Prompts
-	08 - For Mod Testing / Game Progress Issues Only
+	06 - For Mod Testing / Game Progress Issues Only
 		* Bolt Jump
 		* Locksmith
 		* Teleport
@@ -72,19 +69,29 @@ CONTENTS
 =========
 01 - Info
 =========
-	This information was presented in part 3, but bears repeating here.
+	This information was presented in part 3, but bears repeating here:
+		IMPORTANT - Be cautious of adding mods on top of big overhauls like MHM:
+		  * Adding mods that are not officially recommended are quite likely to cause issues.
+		  * Adding mods that are not officially recommended are not guaranteed to be supported in the forum.
+		  * Outdated mods are often a cause of issues.
+		  * Other mods will most likely require some kind of compatiblity patch.
+		  * Check mod description for compatibility notes.
+		  * Look for compatibility patches in the MHM AIO or MHM Core to see if they exist.
+		  * Look for compatibility patches on mod download pages, or inside downloaded archives.
+		  * Check what files the mod changes to see if it is compatible.
+		  * Backup your saves. If you add stuff to your game mid-playthrough, and it turns out to be causing issues,
+		    then removing it can bork your savegame.
 
-	IMPORTANT - Be cautious of adding mods on top of big overhauls like MHM:
-	  * Adding mods that are not officially recommended are quite likely to cause issues.
-	  * Adding mods that are not officially recommended are not guaranteed to be supported in the forum.
-	  * Outdated mods are often a cause of issues.
-	  * Other mods will most likely require some kind of compatiblity patch.
-	  * Check mod description for compatibility notes.
-	  * Look for compatibility patches in the MHM AIO or MHM Core to see if they exist.
-	  * Look for compatibility patches on mod download pages, or inside downloaded archives.
-	  * Check what files the mod changes to see if it is compatible.
-	  * Backup your saves. If you add stuff to your game mid-playthrough, and it turns out to be causing issues,
-	    then removing it can bork your savegame.
+	Outdated Mods:
+		Outdated mods cause issues with games. Basically, they revert a game file to an old version, add the mods changes,
+		then stick that in the updated version of the game. Doesn't apply to refurl-only, or blueprint style mods, just
+		be cautious. Some are fine, some aren't. If you are having issues, and are using outdated mods, they will be the
+		first thing to look at.
+
+	"Incompatible" Mods:
+		These guides are mostly tuned to AIO users, so mods that are listed under not-currently-recommended due to compatibility 
+		issues --MAY-- be ok, if you are using modular setup without all the modules. Make sure you know what you are doing,
+		and know how to tell if it will override MHM files.
 
 
 ================
@@ -131,6 +138,32 @@ CONTENTS
 		Instructions:	Download "gun jam swearing v2" main file
 				Copy "gun jam swearing v2.pak" to "~mods"
 
+	The Last Days - Restored cut side quest
+		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1324
+		Compatibility:	All (when using alternative localization, detailed below)
+		Why:		An unvoiced side quest restored from cut content.
+		Why not:	Unvoiced dialogues throw some people off
+		Instructions:	Download one of the main files (v1 requires some DLC, v2-beta does not)
+				Using V1: Copy "VOLUCRIS_E05_SQ05_DLC_P.pak" to "~mods"
+				Using V2: Copy "VOLUCRIS_E05_SQ05_DLC_P.pak" and "to "VOLUCRIS_PlatformProvider_P.pak" to "~/mods"
+
+				From:	Artifacts Reforged and Transformed
+				Site:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1071
+				File:	5. LocalizationDB (compatibility)
+
+				This localization file includes the latest MHM localization, ART localization, and Last
+				days localizations, all bundled up nicely. Copy and overwrite the ones in your "~mods" folder.
+
+	MinUI Suite (3 mods)
+		Website:	MinUI:			https://www.nexusmods.com/stalker2heartofchornobyl/mods/756?file_id=4062
+				MinHUD:			https://www.nexusmods.com/stalker2heartofchornobyl/mods/757
+				Clean Button Prompts:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/758
+		Compatibility:	Not for "AIO" or "User Interface Module" users.
+		Why:		Slick looking UI components
+		Why not:	You might not like it
+		Instructions:	Download each of the mods and install as usual. The 3rd one has option for PS and XBOX buttons as 
+				well as keyboard.
+
 	New Game Start
 		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1211
 		Compatibility:	Mostly uses reful.
@@ -141,6 +174,9 @@ CONTENTS
 		Why:		Amazing work without the official SDK.
 				If you have finished the game and want a freeplay mod, this is what you are looking for.
 				Have to customize install for each type of start - no ingame selector (yet).
+		Instructions:	You will have to figure this one out for yourself, as you must customise your install, 
+				depending on what you want your freeplay to be like.
+				As always, read the mod description page.
 
 	Shay's Talk and Trade To Anyone
 		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1209
@@ -185,14 +221,15 @@ CONTENTS
 		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1071
 		Compatibility:	Make sure to use the included compatibility patch.
 		Why:		Interesting looking artifacts mod.
-		Why not:	Unbalanced for MHM.
+		Why not:	Unbalanced for MHM (works well with it, just not tuned by AniHVX)
 				MHM will eventually cover artifacts anyway.
 		Instructions:	Download "1. Artifacts Reforged" main file
 				Copy "zzz_ART_ArtifactsReforged_P.pak" and the three "zzz_ART_ArtifactsReforged_Texture_P.*" files to "~mods"
 				Download "4. MHM Compatibility" main file
 				Copy "zzz_ART_ArtifactsReforged_MHM_P.pak" to "~mods"
-		Extra notes:	"2. Armor Module" is incompatible with MHM
-				"3. Anomolies Reforged" incompatible with MHM
+		Extra notes:	"2. Armor Module" is incompatible with MHM 
+				"3. Anomolies Reforged" works with MHM (but they both do similar things to the same file. Use with caution).
+				You may prefer one or the other. ART author uses Anomolies Reforged with MHM, so should be ok).
 
 	Dodge
 		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1243
@@ -257,32 +294,20 @@ CONTENTS
 =========================================================
 05 - Not Recommended (Compatibility Issues)
 =========================================================
-	Cool/interesting mods that you may be tempted to use that have compatibility issues with MHM
+	Cool/interesting mods that you may be tempted to use that have compatibility issues with MHM. They will fuck shit up.
+	In some cases, they are very outdated, and will revert some configs back to older game versions (even more issues).
+
 		Artifacts Overhaul
 		Elemental Artifacts
+		HWCUxOXA
 		Ledge Grabbing
 		NPCS cant THROW
 		Physics Performance Enhancer
 		Skill Magazines
-		The Last Days - Restored cut side quest    <-- Technically compatible, but requires localization merging
-
-
-=====================
-06 - No Longer Needed
-=====================
-	Don't forget to endorse if you used and enjoyed them.
-
-	MinUI Suite - MinUI
-	MinUI Suite - MinHUD
-	MinUI Suite - Clean Button Prompts:
-
-		The updated UI components of MHM 2.0.8 is all you need.
-		These would now cause compatibility issues.
-		Nice mods though. Just not needed for MHM.
 
 
 ================================================
-07 - For Mod Testing / Game Progress Issues Only
+06 - For Mod Testing / Game Progress Issues Only
 ================================================
 	Bolt Jump       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1283    mod add /Game/Mods/BoltJump/ModActor.ModActor_C     https://www.nexusmods.com/stalker2heartofchornobyl/articles/151
 	Locksmith       https://www.nexusmods.com/stalker2heartofchornobyl/mods/1291    ﻿mod add /Game/Mods/Locksmith/ModActor.ModActor_C
