@@ -126,7 +126,9 @@ CONTENTS
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/164
 		Recommended to use "Feliche's Longer Days" with this mod, and extend day cycle by at least 50%
 		Download "Dynamic Weather Overhaul" main file.
-		Copy the four files to "~mods"
+		Using "MHM Weather Addon"?
+			Yes:	Copy the three "DWO_Weathers_P.*" files to "~mods"
+			No:	Copy all four files from base folder to "~mods"
 		Copy the three files from "Optional - Emissions" to "~mods" (Optional but recommended)
 		Copy the three files from "Recommended - Base Weathers" to "~mods" (Optional but recommended)
 
