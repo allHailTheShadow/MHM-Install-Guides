@@ -30,28 +30,29 @@
 CONTENTS
 ========
 	01 - Info
-	02 - Recommended
+	02 - Recommended (For Everyone)
 		* Flashlight Customizer﻿
 		* Improved Saves Modular		<-- INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE ADDONS
 		* STK2-SPF				<-- Only for CChromaEditorLibrary64.dll replacement
-	03 - Somewhat Recommended (User Preference)
+	03 - Recommended (User Preference)
+		* ART - Artifacts Reforged and Transformed
 		* Gun Jam Swearing
 		* The Last Days
 		* MinUI Suite				<-- INCOMPATIBLE WITH AIO/USER INTERFACE MODULE
+		* More Ukrainian Music
 		* New Game Start			<-- INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE ADDONS
 		* Shay's Talk and Trade To Anyone
 		* Skip Prologue				<-- INCOMPATIBLE WITH MASTER-MODE/CAMPFIRE ADDONS
 		* Performance/Optimization/FPS/Anti-lag/...
 	04 - Somewhat Recommended (Balance Issues)
 		* Anomaly Sense
-		* ART - Artifacts Reforged and Transformed
 		* Dodge
 		* Focus Aim
 		* Grab Objects
 		* Shay's Living Zone Complete
 		* Shay's Roaming Professions
 		* Stalker Faction ID
-	05 - Not Currently Recommended (Compatibility Issues)
+	05 - Not Recommended (Compatibility Issues)
 		* Artifacts Overhaul
 		* Elemental Artifacts
 		* HCWUxOXA
@@ -94,9 +95,9 @@ CONTENTS
 		and know how to tell if it will override MHM files.
 
 
-================
-02 - Recommended
-================
+===============================
+02 - Recommended (For Everyone)
+===============================
 	Flashlight Customizer﻿
 		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/221
 		Compatibility:	All (Blueprint/SMM)
@@ -127,14 +128,14 @@ CONTENTS
 				Copy "CChromaEditorLibrary64.dll" to "<gamedir>\Stalker2\Plugins\ChromaSDKPlugin\ThirdParty\Win64" and overwrite
 
 
-===========================================
-03 - Somewhat Recommended (User Preference)
-===========================================
+==================================
+03 - Recommended (User Preference)
+==================================
 	ART - Artifacts Reforged and Transformed
 		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1071
 		Compatibility:	Make sure to use the included compatibility patch.
-		Why:		Interesting looking artifacts mod.
-		Why not:	Might be considered unbalanced for MHM (works well with it, just not tuned by AniHVX)
+		Why:		Interesting looking artifacts mod
+		Why not:	Might be considered unbalanced for MHM (works well with it, just not tuned by AniHVX who is the Arbiter of Balance(TM(?)))
 				MHM will eventually cover artifacts anyway.
 		Instructions:	Download "1. Artifacts Reforged" main file
 				Copy "zzz_ART_ArtifactsReforged_P.pak" and the three "zzz_ART_ArtifactsReforged_Texture_P.*" files to "~mods"
@@ -227,9 +228,9 @@ CONTENTS
 		* I am hesitant to recommend one over another, as user results may vary.
 
 
-========================================================
+==========================================
 04 - Somewhat Recommended (Balance Issues)
-========================================================
+==========================================
 	Anomaly Sense
 		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1294
 		Compatibility:	All (Blueprints/SMM)
@@ -271,7 +272,8 @@ CONTENTS
 		Compatibility:	All (Uses refurl)
 				Don't use with other Shay mods.
 				Don't use with "A-Life Found a Way"
-		Why:		Combines Shay mods "Living Zone", "Talk and Trade to Anyone", "Roaming Professions", as well as some additional changes not present in other Shay mods.
+		Why:		Combines Shay mods "Living Zone", "Talk and Trade to Anyone", "Roaming Professions", as well as some additional changes 
+				not present in other Shay mods.
 		Why not:	Considered unbalanced for MHM as it includes "Shay's Roaming Professions"
 		Instructions:	Download "Living Zone Complete - MHM Compatible" optional file (only)
 				Copy "SLZC_MHMCOMPAT_P.pak" to "~mods"
@@ -299,16 +301,16 @@ CONTENTS
 				Enter command:  mod add /Game/Mods/StalkerId/BP_StalkerIdentification.BP_StalkerIdentification_C
 
 
-=========================================================
+===========================================
 05 - Not Recommended (Compatibility Issues)
-=========================================================
+===========================================
 	Cool/interesting mods that you may be tempted to use that have compatibility issues with MHM. They will fuck shit up.
 	In some cases, they are very outdated, and will revert some configs back to older game versions (even more issues).
 
 		Artifacts Overhaul
 		Elemental Artifacts
 		HWCUxOXA
-		Ledge Grabbing
+		Ledge Grabbing (or any vaulting/grabbing/stalkour/parkour type mods)
 		NPCS cant THROW
 		Physics Performance Enhancer
 		Skill Magazines
