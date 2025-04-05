@@ -80,8 +80,9 @@ CONTENTS
 
 	OXA:
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/939
-		Download the "OXA - Oxide's eXpanded Armory" old file (not main), version 2.2.0 for now.
+		Download the "OXA - Oxide's eXpanded Armory" old file (not main), version 2.1.8 for now.
 		Newest version is 2.2.1, but not currently recommended by AniHVX for MHM.
+		This is not a hard requirement, just MHM author preference.
 		Copy ~all~ files to "~mods" --EXCEPT-- the three localization files and OXA03_P.pak
 		
 		IMPORTANT: Do NOT install OXA03_P.pak.
