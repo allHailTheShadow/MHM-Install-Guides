@@ -112,7 +112,7 @@ CONTENTS
 ==============
 ﻿05 - IMMERSION
 ==============
-	Mutant Physics and Audio﻿
+	"Flics Physics and Audio Fix" aka "Mutant Physics and Audio"﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1117
 		Download "MutantPhysicsFix" main file.
 		Copy "zzzzzz_MutantPhysicsFix.pak" to "~mods"
@@ -125,12 +125,12 @@ CONTENTS
 	Dynamic Weather Overhaul﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/164
 		Recommended to use "Feliche's Longer Days" with this mod, and extend day cycle by at least 50%
-		Download "Dynamic Weather Overhaul" main file.
+		Download "Dynamic Weather Overhaul" main file, not the prerelease version.
 		Using "MHM Weather Addon"?
 			Yes:	Copy the three "DWO_Weathers_P.*" files to "~mods"
 			No:	Copy all four files from base folder to "~mods"
-		Copy the three files from "Optional - Emissions" to "~mods" (Optional but recommended)
-		Copy the three files from "Recommended - Base Weathers" to "~mods" (Optional but recommended)
+		Copy the three files from "Optional - Emissions" to "~mods"
+		Copy the three files from "Recommended - Base Weathers" to "~mods"
 
 	Feliche's Real Longer Days﻿
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/35
@@ -162,9 +162,8 @@ CONTENTS
 
 	Painter of the Zone - Bloody Wounds
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/394
-		It seems to have no compatibility issues - no patch needed?
 		Pairs well with "PotZ - Blood Wallmarks"
-		Has issues with official Stalker patch 1.3
+		Has some issues with wounds not appearing in v1.3+ official game versionss.
 		Download "PainteroftheZone_Wounds" main file.
 		Copy the three "zz_PoZWounds_P*" files to "~mods"
 		Ignore the "Other Sizes" folder.
