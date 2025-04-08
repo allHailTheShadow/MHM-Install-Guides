@@ -36,7 +36,9 @@ CONTENTS
 		* STK2-SPF				<-- Only for CChromaEditorLibrary64.dll replacement
 	03 - Recommended (User Preference)
 		* ART - Artifacts Reforged and Transformed
+		* Blood Goes Splish Splash
 		* Gun Jam Swearing
+		* It Puts the Flashlight on the Head...
 		* The Last Days
 		* MinUI Suite				<-- INCOMPATIBLE WITH AIO/USER INTERFACE MODULE
 		* More Ukrainian Music
@@ -49,17 +51,18 @@ CONTENTS
 		* Dodge
 		* Focus Aim
 		* Grab Objects
+		* HCWUxOXA
 		* Shay's Living Zone Complete
 		* Shay's Roaming Professions
 		* Stalker Faction ID
 	05 - Not Recommended (Compatibility Issues)
 		* Artifacts Overhaul
 		* Elemental Artifacts
-		* HCWUxOXA
 		* Ledge Grabbing
 		* NPCS cant THROW
 		* Physics Performance Enhancer
 		* Skill Magazines
+		* Unrestricted Equipment Upgrades
 	06 - For Mod Testing / Game Progress Issues Only
 		* Bolt Jump
 		* Locksmith
@@ -144,6 +147,13 @@ CONTENTS
 		Extra notes:	"2. Armor Module" is not needed/incompatible with MHM
 				"3. Anomolies Reforged" works well with MHM (was designed with MHM in mind by ART author, they use it with MHM)
 
+	Blood Goes Splish Splash
+		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1232
+		Compatibility:	All
+		Why:		Better and more informative screenspace blood effects
+		Why not:	You don't like blood? Or something.
+		Instructions:	Download main file and install "Blood_Goes_Splish_Splash_P.pak" to "~mods"
+
 	Gun Jam Swearing
 		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/900
 		Compatibility:	All (Audio replacer only, no cfgs)
@@ -151,6 +161,15 @@ CONTENTS
 		Why not:	Ukrainian voice Skif only
 		Instructions:	Download "gun jam swearing v2" main file
 				Copy "gun jam swearing v2.pak" to "~mods"
+
+	It Puts The Flashlight On The Head...
+		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1191
+		Compatibility:	All that don't edit "FlashlightPrototypes.cfg". Which should be pretty much most mods.
+		Why:		Moves your lightsource to yor head, just like the other guys.
+				Multiple FOV options. No-band option.
+		Why not:	I don't know
+		Instructions:	Select 16:9 or ultrawide, then select FOV 90,100, or 110.
+				Pick the main file that matches, and install "It_Puts_The_Flashlight_On_The_Head_P.pak" to "~mods"
 
 	The Last Days - Restored cut side quest
 		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1324
@@ -267,6 +286,19 @@ CONTENTS
 				Change settings as per article on mod page: https://www.nexusmods.com/stalker2heartofchornobyl/articles/154
 				Run command: mod add /Game/Mods/GrabObjects/ModActor.ModActor_C
 
+	HWCUxOXA
+		Website:	HWCU:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/806
+				OXA:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/939
+		Why:		Lots more upgrades for certain classes of weapons.
+		Why not:	Some weapons are covered, but not others.
+				Not balanced for MHM.
+		Instructions:	Get part 1 from OXA
+					Download "HCWU x OXA Part 1-939-0-3-1-1737071875.zip"
+					Install "HCWUxOXA_pt1_P.pak" to "~mods"
+				Get part 2 from Herbata's Custom Weapon Upgrades
+					Download "A) HCWU x OXA Part 2 (OXA Required)-806-0-3-1b-1743966142.zip"
+					Install "HCWUxOXA_pt2_P.pak" to "~mods"
+
 	Shay's Living Zone Complete
 		Website:	https://www.nexusmods.com/stalker2heartofchornobyl/mods/1301
 		Compatibility:	All (Uses refurl)
@@ -309,11 +341,11 @@ CONTENTS
 
 		Artifacts Overhaul
 		Elemental Artifacts
-		HWCUxOXA
 		Ledge Grabbing (or any vaulting/grabbing/stalkour/parkour type mods)
 		NPCS cant THROW
 		Physics Performance Enhancer
 		Skill Magazines
+		Unrestricted Equipment Upgrades
 
 
 ================================================
