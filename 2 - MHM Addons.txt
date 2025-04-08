@@ -68,12 +68,13 @@ CONTENTS
 
 	MHM Less Clear Skies, More Emission Weather:
 		Desc:		Far less clear weather, much more and longer lasting fog/cloud/rain
-		For:		Any (Requires Dynamic Weather Overhaul, see "3 - MHM Recommended Mods" to see installation
+		For:		Any
+				Requires Dynamic Weather Overhaul (See part 3, "MHM Recommended Mods" for installation).
 		Install:	Copy "zzz_DWO_WeatherPatterns_MHMEdit_P.pak" to "~mods"
 				If you already have DWO installed, delete "zz_DWO_WeatherPatterns_P.pak" from "~mods"
 
-	Relaxed Mode for Veteran AIO:
+	Relaxed Mode for Standard AIO:
 		Desc:		Less hardcore than Standard.
 				Tones things down a bit for easier game.
 		For:		Standard only. AIO only.
-		Install:	Copy "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Veteran_AIO_P.pak" to "~mods"
+		Install:	Copy "zzzzzzzzzzzz_MHM_2.0_Relaxed_Mode_Standard_AIO_P.pak" to "~mods"
