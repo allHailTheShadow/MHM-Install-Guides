@@ -1,18 +1,6 @@
-##############################################################
-#
-# INSTRUCTIONS:
-#     1. Set your customizations in the next section
-#     2. Create a new folder
-#     3. Download the MHM AIO file to this folder
-#     4. Add this file to the folder
-#     5. Right click on this file, and select run with powershell
-#
-##############################################################
-
-
-
 ###############################################################################################################
-# CUSTOMIZE THIS SECTION TO YOUR LIKING
+#
+# CUSTOMIZE THESE TO YOUR LIKING
 #
 # These options will send the pak files into the mod named on the right
 #     $aio_hardcore = 'MHM - AIO - Hardcore'
@@ -53,11 +41,16 @@ $patches_svarog       = 'MHM - Patch - Svarog Detector'
 # extract mod id, version, etc from filename
 #
 ############################################
-
-'.\A. Modular Hard Mode - AIO-88-2-0-83Q-1745033351.7z' -match "^.*AIO-(\d\d)-(.*)-(.*).7z$"
-$mod_id               = $matches[1]
-$version              = $matches[2]
-$other_thing          = $matches[3]
+$filename = (Get-ChildItem ".\" -Filter "*7z").Name[0]
+$_ = $filename -match "^.*Modular Hard Mode.*AIO-(\d\d)-(.*)-(.*).7z$"
+if($filename -ne $matches[0]) {
+	Write-Host "MHM AIO file not found. Please run this from the same folder as the downloaded .7z file."
+	Read-Host -Prompt 'Press Enter to exit'
+	exit
+}
+$mod_id      = $matches[1]
+$version     = $matches[2]
+$other_thing = $matches[3]
 
 
 
@@ -68,7 +61,7 @@ $other_thing          = $matches[3]
 ##########################
 
 Write-Host "Extracting AIO zip... " -NoNewLine
-& "${7z_dir}\7z.exe" x '.\A. Modular Hard Mode - AIO*7z' > $null
+& "${7z_dir}\7z.exe" x '.\A. Modular Hard Mode - AIO*7z' -aoa > $null
 Write-Host "Done!"
 
 
@@ -169,3 +162,4 @@ foreach ($mod in $mods_all)
 		Write-Host "Done!"
 	}
 }
+Read-Host -Prompt 'Press Enter to exit'
