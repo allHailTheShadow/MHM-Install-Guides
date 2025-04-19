@@ -1,3 +1,16 @@
+##############################################################
+#
+# INSTRUCTIONS
+#   1. Create new folder
+#   2. Place this file in that folder
+#   3. Place downloaded MHM AIO 7z file into that folder as well
+#   4. Customize the below section to your LIKING
+#   5. Right click this file and select run with powershell
+#
+##############################################################
+
+
+
 ###############################################################################################################
 #
 # CUSTOMIZE THESE TO YOUR LIKING
