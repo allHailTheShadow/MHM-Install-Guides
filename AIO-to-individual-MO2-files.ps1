@@ -53,10 +53,11 @@ $patches_svarog       = 'MHM - Patch - Svarog Detector'
 # extract mod id, version, etc from filename
 #
 ############################################
-$filename = (Get-ChildItem ".\" -Filter "*7z").Name[0]
+$filename = (Get-ChildItem ".\" -Filter "*7z").Name
 $_ = $filename -match "^.*Modular Hard Mode.*AIO-(\d\d)-(.*)-(.*).7z$"
 if($filename -ne $matches[0]) {
-	Write-Host "MHM AIO file not found. Please run this from the same folder as the downloaded .7z file."
+	Write-Host "Please run this from the same folder as the downloaded .7z file."
+	Write-Host "Ensure the directory is otherwise empty."
 	Read-Host -Prompt 'Press Enter to exit'
 	exit
 }
