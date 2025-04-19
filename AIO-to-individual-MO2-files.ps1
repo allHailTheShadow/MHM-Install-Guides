@@ -19,7 +19,6 @@
 #     $aio_hardcore = 'MHM - AIO - Hardcore'
 #     Sends the pak file "zzzzzz_MHM_2.0_AIO_Full_Hardcore.pak" into a mod called 'MHM - AIO Hardcore'
 # 
-#
 # To send for example both of the 'Found a Way' patches into a single mod, just set them to have the same name:
 #     $patches_faw_regular  = 'MHM - Patch - A-Life Found a Way'
 #     $patches_faw_master   = 'MHM - Patch - A-Life Found a Way'
