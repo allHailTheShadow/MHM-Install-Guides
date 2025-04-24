@@ -1,3 +1,9 @@
+2025-04-24:  * (P1) Updated OXA install to latest change "Alt+0" for config
+             * (P2) Updated Addons to include the 2nd reshade optional
+             * (P3) Updated for new versions of "Longer Days" and "Weapon Reposition"
+             * (P4) Noted that chart at end of section is out of date (TODO)
+             * (P6) Added spawn tools to Testing section
+
 2025-04-08:  * (P1) Updated OXA install to latest version, and made note about pressing "Shift+M" ingame.
              * (P2) Updated guide to reflect renaming of veteran to standard.
              * (P3) "Flic's Physics and Audio Fix" aka "Mutant Physics Fix"
