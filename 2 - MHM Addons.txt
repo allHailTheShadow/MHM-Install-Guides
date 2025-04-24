@@ -9,7 +9,9 @@ CONTENTS
 		* Hardcore AIO for Gamepad Users
 		* Master Mode for Hardcore AIO
 		* MHM Campfire Saves
+		* Reshade Color Fix/Gloom:
 		* MHM Color Grading Fix
+		* MHM Less Clear Weather, More Emission
 		* Relaxed Mode for Veteran AIO
 
 
@@ -45,33 +47,41 @@ CONTENTS
 		For:		Any except Master Mode (Already included)
 		Install:	Copy "zzzzzzzzzzzz_MHM_CampfireSaves.pak" to "~mods"
 
-	MHM Color Grading Fix:
-		Desc:		Tones down some of the color saturation in the game.
-				Need to install Reshade before it will work (this is not a standard stalker 2 mod)
+	Reshade Color Fix/Gloom:
+		Desc:		ReShade is a post-processing injector for games and video software that enhances visuals 
+				by adding effects like color correction, depth of field, and ambient occlusion. It allows 
+				users to customize the appearance of their games through shaders and presets.
+
+				In the case of MHM, two presets are available, and both depend on having reshade installed.
+				There are also multiple presets for S2 available on Nexus Mods.
+
 		For:		Any
-		Install:	Copy "MHM.ini" to "~your game dir~\Stalker2\Binaries\Win64" folder
+		Install:	There are two options in MHM AIO, use only one:
+					Color Grading Fix:	Copy "MHM.ini" to "~your game dir~\Stalker2\Binaries\Win64" folder
+					Gloom:			Copy "MHMGloom.ini" to "~your game dir~\Stalker2\Binaries\Win64" folder
+
+				Now to install reshade itself:
 				Download ReShade from "https://reshade.me/#download" and run the installer.
 				Point it to your "Stalker2.exe"
 				Select the DirectX 10/11/12 option.
 				Click uncheck all at the top right (Standard effects will stay checked, that's ok)
-				At the bottom click "browse" and point it to the "MHM.ini" file you installed earlier.
+				At the bottom click "browse" and point it to the ini file you installed earlier.
 				Click "next".
 				Don't check anything on next screen, and click "next".
 				Click "finish"
 				Once ingame, press the "home" key on your keyboard.
-				Click "Add-ons" tab at top.
-				Uncheck "Generic Depth" and "Effect Runtime Sync"
 				Click "Settings" tab at top.
 				Under "General" section, check "Load only enabled effects"
 				Pres "home" on your keyboard again to close the window.
 				You will need to close and restart your game for everything to work properly.
 
-	MHM Less Clear Skies, More Emission Weather:
+	MHM Less Clear Weather, More Emission:
 		Desc:		Far less clear weather, much more and longer lasting fog/cloud/rain
 		For:		Any
 				Requires Dynamic Weather Overhaul (See part 3, "MHM Recommended Mods" for installation).
 		Install:	Copy "zzz_DWO_WeatherPatterns_MHMEdit_P.pak" to "~mods"
-				If you already have DWO installed, delete "zz_DWO_WeatherPatterns_P.pak" from "~mods"
+				If you already have DWO installed, delete "zz_DWO_WeatherPatterns_P.pak" from "~mods" (if it
+				exists), as this file ~replaces~ it.
 
 	Relaxed Mode for Standard AIO:
 		Desc:		Less hardcore than Standard.
