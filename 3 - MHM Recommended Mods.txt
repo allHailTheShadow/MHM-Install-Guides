@@ -47,7 +47,7 @@ CONTENTS
 		From "Optional Files", download "Add-On Modules and Alternative Main Mods"
 		Copy the file called "zzzz_SLZxMHM_P.pak" from the folder "AM3 SLZxMHM" to your "~mods" folder
 
-	A-Life Found a Way﻿
+	A-Life Found a Way﻿:
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1122
 		REQIRES "Stop NPCs X-Ray Vision and Other Collision Tweaks"    <-- engine.ini edits only, not the pak file
 		Download "ALife_Found_A_Way" main file
@@ -55,7 +55,6 @@ CONTENTS
 		Copy --one-- of the files from the "MHM\Patches and Addons\Patch: A-Life Found a Way":
 		    If using Master Mode addon: Copy "zzzzzzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_MasterMode_P.pak" to "~mods"
 		    Otherwise:                  Copy "zzzzzzzzzzzz_MHM_Patch_ALife_Found_A_Way_P.pak" to "~mods"
-
 
 =============
 ﻿03 - AI / NPC
@@ -136,13 +135,14 @@ CONTENTS
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/35
 		Recommended if using Dynamic Weather Overhaul.
 		Download "Real Longer Days" main file.
-		READ the mod page. You will need to pick a ratio, and a time stretch.
-		Once you have done this copy the three "Feliche_Real_LongerDays_P*" files from your folder choices to "~mods"
+		Choose desired day length from the download, and copy the three "Feliche_Real_LongerDays_P.*" files
+		from the chosen folder to "~mods"
 
 	Feliche's Weapon Position
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/1312
 		Download "Weapon Position" main file.
-		Copy the three "Feliche_Weapon_Fov_P.*" files to "~mods".
+		Copy the three "WRP_VanillaPlus_P.*" files from the "VanillaPlus" folder to "~mods".
+		Other customization options are available, read the page carefully if you want to modify.
 
 
 ==========
