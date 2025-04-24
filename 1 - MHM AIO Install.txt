@@ -133,4 +133,4 @@ CONTENTS
 	  Above command only needed if updating MHM setup. Shouldn't be needed for new save (but it won't hurt either)
 
 	    ***IMPORTANT***
-	* Once your game has started, press "Shift+M" to activate OXAxMHM compatibility.
+	* Once your game has started, press "Alt+0" (that's a zero) to bring up the OXA menu, and select MHM mode.
