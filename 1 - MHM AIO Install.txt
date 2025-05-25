@@ -80,12 +80,12 @@ CONTENTS
 
 	OXA:
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/939
-		Download the "OXA - Oxide's eXpanded Armory" main file.
+		Download the "OXA - Standard" main file.
 		Copy the three "OXA01_P.*" files to "~mods"
 		Copy the three "OXA02_P.*" files to "~mods"
-		Copy the three "OXA0X_P.*" files to "~mods"
+		Copy the three "OXA_Standard.*" files to "~mods"
 		
-		IMPORTANT: Do NOT install any "OXA03_P.*" files or the localization files.
+		IMPORTANT: Do NOT install "OXA03_Standard_100_P.pak" file or the localization files.
 
 	Project Itemization:
 		https://www.nexusmods.com/stalker2heartofchornobyl/mods/445
@@ -128,8 +128,8 @@ CONTENTS
 07 - Final Steps
 ================
 	* Make double sure that you have ~NOT~ installed any of LNA file other than "LNA01_99_P.pak"
-	* Make double sure that you have ~NOT~ installed "OXA03_P.pak" from OXA
-	* Press tilde(~) ingame and enter the command "mod add /Game/Mods/OXA0X/ModActor.ModActor_C" without the quotes
+	* Make double sure that you have ~NOT~ installed "OXA03_Standard_100_P.pak" from OXA
+	* Press tilde(~) ingame and enter the command "/Game/Mods/OXA_Standard/ModActor.ModActor_C" without the quotes
 	  Above command only needed if updating MHM setup. Shouldn't be needed for new save (but it won't hurt either)
 
 	    ***IMPORTANT***
